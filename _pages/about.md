@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at [MSRA-Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> as a research intern now in Beijing, doing some LLM and speech research. 
+I am a first-year master's student in Zhejiang University now. I also worked at [MSRA-Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> as a research intern in Beijing ago, doing some LLM and speech research. 
 
-I am now working on TTS, Music, Generative model research. If you are seeking any form of **academic cooperation**, please feel free to email me at v-shengji@microsoft.com.
+I am now working on TTS, Music, Generative model research. If you are seeking any form of **academic cooperation**, please feel free to email me at shengpengji@zju.edu.cn.
 
 I graduate from the Department of Software Engineering in JiLin University (吉林大学软件学院) with a bachelor's degree and continue to study in Zhejiang University (浙江大学软件学院) with a master's degree now, advised by [Zhou Zhao (赵洲)](https://person.zju.edu.cn/zhaozhou). I also collaborate with [Zhou Long (周龙)](https://long-zhou.github.io/), [ShuJie Liu (刘树杰)](https://www.microsoft.com/en-us/research/people/shujliu/) from [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) closely. 
 
-My research interest includes speech synthesis, Generative model and LLM. I look forward to having more paper published at the top international AI conferences such as NeurIPS, ICLR, IJCAI, ACM MM, AAAI, ICASSP, Interspeech. I have published some papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=zuRaB-oAAAAJ'>google scholar citations</a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=zuRaB-oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes speech synthesis, Generative model and LLM. I look forward to having more paper published at the top international AI conferences such as NeurIPS, ICLR, IJCAI, ACM MM, AAAI, ICASSP, Interspeech. I have published some papers at the top international AI conferences with total google scholar citations <a href='https://scholar.google.com/citations?user=zuRaB-oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
