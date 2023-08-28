@@ -27,11 +27,12 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 
 
 # 🔥 News
+- *2023.08*: We propose TextrolSpeech on arxiv!
+- *2023.08*：I was selected as a reviewer for 2024EMNLP!
 - *2023.06*: One paper is accept by CCFA IEEE Transactions on Computers!
 - *2023.06*: One paper is submitted to EMNLP 2023!
 - *2023.05*: One paper(co-worker) is submitted to NIPS 2023!
 - *2023.03*: 🎉🎉 I join [Microsoft Research Asia(MSRA), Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> as a research intern!
-- *2023.03*: One paper is submitted to Interspeech 2023!
 - *2022.11*: I join Ping An Technology Company <img src='./images/pingan.png' style='width: 6em;'> as a speech junior algorithm engineer in Shanghai!
 - *2022.10*: I got the offer of postgraduate study in the School of Software of [Zhejiang University](http://www.cst.zju.edu.cn/). 🚧 ⛏️ 🛠️ 👷 
 - *2021.11*: I join [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/xxxb/list.htm) <img src='./images/qinghua.png' style='width: 6em;'> as a remote intern!
@@ -53,6 +54,20 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 ## 🎙 Speech Synthesis and Music
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TextrolSpeech</div><img src='images\textrolspeech1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+TextrolSpeech: A Text Style Control Speech Corpus With Codec Language Text-to-Speech Models \\
+Authors: **Shengpeng Ji**, Jialong Zuo, Minghui Fang, Ziyue Jiang, Feiyang Chen, Xinyu Duan, Baoxing Huai, Zhou Zhao
+
+- TextrolSpeech is the first text style controallable datasets and Salle is codec language ttS model.
+- Audio samples are available in this [website](https://sall-e.github.io/)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DiffBeautifier</div><img src='images/DiffBeautifier.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -64,6 +79,7 @@ Authors: **Shengpeng Ji**, Xulong Zhang, Jianzong Wang, Ziyue Jiang,Jing Xiao
 - Audio samples are available in this [website](https://diffbeautifier.github.io/)
 </div>
 </div>
+
 
 ## 📚 Zero-shot TTS
 - NIPS 2023 [Mega-TTS: Zero-Shot Text-to-Speech at Scale with Intrinsic Inductive Bias](), Ziyue Jiang, Yi Ren, Zhenhui Ye, Jinglin Liu, Chen Zhang, Qian Yang, **Shengpeng Ji**, Rongjie Huang, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao
