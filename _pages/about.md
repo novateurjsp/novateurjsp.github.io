@@ -27,11 +27,12 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 
 
 # 🔥 News
+- *2023.09*: One paper (co-worker)  is submitted to ICLR 2024!
 - *2023.08*: We propose TextrolSpeech on arxiv!
 - *2023.08*：I was selected as a reviewer for 2024EMNLP!
 - *2023.06*: One paper is accept by CCFA IEEE Transactions on Computers!
-- *2023.06*: One paper is submitted to EMNLP 2023!
-- *2023.05*: One paper(co-worker) is submitted to NIPS 2023!
+- *2023.06*: One paper is submitted to EMNLP 2024!
+- *2023.05*: We propose Mega-TTS (co-worker) on arxiv!
 - *2023.03*: 🎉🎉 I join [Microsoft Research Asia(MSRA), Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> as a research intern!
 - *2022.11*: I join Ping An Technology Company <img src='./images/pingan.png' style='width: 6em;'> as a speech junior algorithm engineer in Shanghai!
 - *2022.10*: I got the offer of postgraduate study in the School of Software of [Zhejiang University](http://www.cst.zju.edu.cn/). 🚧 ⛏️ 🛠️ 👷 
@@ -82,14 +83,15 @@ Authors: **Shengpeng Ji**, Xulong Zhang, Jianzong Wang, Ziyue Jiang,Jing Xiao
 
 
 ## 📚 Zero-shot TTS
-- NIPS 2023 [Mega-TTS: Zero-Shot Text-to-Speech at Scale with Intrinsic Inductive Bias](), Ziyue Jiang, Yi Ren, Zhenhui Ye, Jinglin Liu, Chen Zhang, Qian Yang, **Shengpeng Ji**, Rongjie Huang, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao
+- ICLR 2024 submit [Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](), Ziyue Jiang, Jinglin Liu, Yi Ren, Jinzheng He, Zhenhui Ye, **Shengpeng Ji**, Chen Zhang, Pengfei Wei, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao
+- arxiv [Mega-TTS: Zero-Shot Text-to-Speech at Scale with Intrinsic Inductive Bias](), Ziyue Jiang, Yi Ren, Zhenhui Ye, Jinglin Liu, Chen Zhang, Qian Yang, **Shengpeng Ji**, Rongjie Huang, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao
 
 ## 🧑‍🎨 Machine Learning
 - ``CCF A IEEE Transactions on Computers`` [Neural Architecture Search Based System for Networking Device-Specific Neural Networks]()
 - ``CCF B 计算机科学`` [基于分数线预测的多特征融合高考志愿推荐算法](), 王泽卿, **季圣鹏**, 李鑫, 赵子轩, 王鹏旭, 韩霄松
 
 # 🎖 Honors and Awards
-- *2022.10* One-class scholarship of Jilin University (Top 1%, 1/397)
+- *2023.06* One-class scholarship of Jilin University (Top 1%, 1/397)
 - *2022.10* Second-class scholarship of Jilin University
 - *2021.10* National Scholarship (Undergraduate) (Top 1%, 4/397)
 - *2020.10* Third-class scholarship of Jilin University 
