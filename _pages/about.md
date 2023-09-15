@@ -63,7 +63,6 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 TextrolSpeech: A Text Style Control Speech Corpus With Codec Language Text-to-Speech Models \\
 Authors: **Shengpeng Ji**, Jialong Zuo, Minghui Fang, Ziyue Jiang, Feiyang Chen, Xinyu Duan, Baoxing Huai, Zhou Zhao
 
-- TextrolSpeech is the first text style controallable datasets and Salle is codec language ttS model.
 - Audio samples are available in this [website](https://sall-e.github.io/)
 </div>
 </div>
