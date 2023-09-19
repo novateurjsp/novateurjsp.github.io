@@ -29,9 +29,9 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 # 🔥 News
 - *2023.09*: One paper (co-worker)  is submitted to ICLR 2024!
 - *2023.08*: We propose TextrolSpeech on arxiv!
-- *2023.08*：I was selected as a reviewer for 2024EMNLP!
+- *2023.08*：I was selected as a reviewer for EMNLP 2023!
 - *2023.06*: One paper is accept by CCFA IEEE Transactions on Computers!
-- *2023.06*: One paper is submitted to EMNLP 2024!
+- *2023.06*: One paper is submitted to EMNLP 2023!
 - *2023.05*: We propose Mega-TTS (co-worker) on arxiv!
 - *2023.03*: 🎉🎉 I join [Microsoft Research Asia(MSRA), Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> as a research intern!
 - *2022.11*: I join Ping An Technology Company <img src='./images/pingan.png' style='width: 6em;'> as a speech junior algorithm engineer in Shanghai!
