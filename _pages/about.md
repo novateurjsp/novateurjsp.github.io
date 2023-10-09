@@ -27,11 +27,8 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 
 
 # 🔥 News
-- *2023.09*: One paper (co-worker)  is submitted to ICLR 2024!
 - *2023.08*: We propose TextrolSpeech on arxiv!
 - *2023.08*：I was selected as a reviewer for EMNLP 2023!
-- *2023.06*: One paper is accept by CCFA IEEE Transactions on Computers!
-- *2023.06*: One paper is submitted to EMNLP 2023!
 - *2023.05*: We propose Mega-TTS (co-worker) on arxiv!
 - *2023.03*: 🎉🎉 I join [Microsoft Research Asia(MSRA), Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> as a research intern!
 - *2022.11*: I join Ping An Technology Company <img src='./images/pingan.png' style='width: 6em;'> as a speech junior algorithm engineer in Shanghai!
@@ -67,7 +64,7 @@ Authors: **Shengpeng Ji**, Jialong Zuo, Minghui Fang, Ziyue Jiang, Feiyang Chen,
 </div>
 </div>
 
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DiffBeautifier</div><img src='images/DiffBeautifier.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -79,6 +76,7 @@ Authors: **Shengpeng Ji**, Xulong Zhang, Jianzong Wang, Ziyue Jiang,Jing Xiao
 - Audio samples are available in this [website](https://diffbeautifier.github.io/)
 </div>
 </div>
+-->
 
 
 ## 📚 Zero-shot TTS
@@ -86,10 +84,11 @@ Authors: **Shengpeng Ji**, Xulong Zhang, Jianzong Wang, Ziyue Jiang,Jing Xiao
 - arxiv [Mega-TTS: Zero-Shot Text-to-Speech at Scale with Intrinsic Inductive Bias](), Ziyue Jiang, Yi Ren, Zhenhui Ye, Jinglin Liu, Chen Zhang, Qian Yang, **Shengpeng Ji**, Rongjie Huang, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao
 
 ## 🧑‍🎨 Machine Learning
-- ``CCF A IEEE Transactions on Computers`` [Neural Architecture Search Based System for Networking Device-Specific Neural Networks]()
+- ``CCF A IEEE Transactions on Computers (revision)`` [Neural Architecture Search Based System for Networking Device-Specific Neural Networks]()
 - ``CCF B (Chinese) Computer Science`` [A Novel College Entrance Filling Recommendation Algorithm Based on Score Line Prediction and Multi-feature Fusion](), Zeqing Wang, **Shengpeng Ji**, Xin Li, Zixuan Zhao, Pengxu Wang, Xiaosong Han
 
 # 🎖 Honors and Awards
+- *2023.06* Outstanding graduate of Jilin University (Top 5%)
 - *2023.06* One-class scholarship of Jilin University (Top 1%, 1/397)
 - *2022.10* Second-class scholarship of Jilin University
 - *2021.10* National Scholarship (Undergraduate) (Top 1%, 4/397)
@@ -104,6 +103,7 @@ Authors: **Shengpeng Ji**, Xulong Zhang, Jianzong Wang, Ziyue Jiang,Jing Xiao
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
+- *2023.09 - now* HuaWei Honor,Speech Group, Remote.
 - *2023.03 - 2023.08*, [MSRA,Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;">, Beijing HaiDian Area.
 - *2022.11 - 2023.03*, Ping An Techology Company, ShangHai Pudong Area.
 - *2021.11 - 2022.05*, [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/xxxb/list.htm) <img src='./images/qinghua.png' style='width: 6em;'>, Remote.
