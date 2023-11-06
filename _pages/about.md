@@ -27,6 +27,7 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 
 
 # 🔥 News
+- *2023.11*: One Paper (co-worker) is accepted by CCFA IEEE Transactions on Computers!
 - *2023.08*: We propose TextrolSpeech on arxiv!
 - *2023.08*：I was selected as a reviewer for EMNLP 2023!
 - *2023.05*: We propose Mega-TTS (co-worker) on arxiv!
@@ -51,7 +52,7 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-## 🎙 Speech Synthesis and Music
+## 🎙 Controllable Speech Synthesis
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TextrolSpeech</div><img src='images\textrolspeech1.jpg' alt="sym" width="100%"></div></div>
@@ -84,7 +85,7 @@ Authors: **Shengpeng Ji**, Xulong Zhang, Jianzong Wang, Ziyue Jiang,Jing Xiao
 - arxiv [Mega-TTS: Zero-Shot Text-to-Speech at Scale with Intrinsic Inductive Bias](), Ziyue Jiang, Yi Ren, Zhenhui Ye, Jinglin Liu, Chen Zhang, Qian Yang, **Shengpeng Ji**, Rongjie Huang, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao
 
 ## 🧑‍🎨 Machine Learning
-- ``CCF A IEEE Transactions on Computers (revision)`` [Neural Architecture Search Based System for Networking Device-Specific Neural Networks]()
+- ``CCF A IEEE Transactions on Computers`` [Neural Architecture Search Based System for Networking Device-Specific Neural Networks](), Guorui Xie, Qing Li, Zhenning Shi, Hanbin Fang, **Shengpeng Ji**, Yong Jiang, Zhenhui Yuan, Lianbo Ma, Mingwei Xu
 - ``CCF B (Chinese) Computer Science`` [A Novel College Entrance Filling Recommendation Algorithm Based on Score Line Prediction and Multi-feature Fusion](), Zeqing Wang, **Shengpeng Ji**, Xin Li, Zixuan Zhao, Pengxu Wang, Xiaosong Han
 
 # 🎖 Honors and Awards
