@@ -19,7 +19,7 @@ redirect_from:
 
 I am a first-year master's student in Zhejiang University now. I also worked at [MSRA-Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> as a research intern in Beijing ago, doing some LLM and speech research. 
 
-I am now working on TTS, Music, Generative model research. If you are seeking any form of **academic cooperation**, please feel free to email me at shengpengji@zju.edu.cn.
+I am now working on Text to speech, large language models, Generative model research. If you are seeking any form of **academic cooperation**, please feel free to email me at shengpengji@zju.edu.cn.
 
 I graduate from the Department of Software Engineering in JiLin University (吉林大学软件学院) with a bachelor's degree and continue to study in Zhejiang University (浙江大学软件学院) with a master's degree now, advised by [Zhou Zhao (赵洲)](https://person.zju.edu.cn/zhaozhou). I also collaborate with [Zhou Long (周龙)](https://long-zhou.github.io/), [ShuJie Liu (刘树杰)](https://www.microsoft.com/en-us/research/people/shujliu/) from [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) closely. 
 
@@ -27,8 +27,9 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 
 
 # 🔥 News
+- *2023.12*: TextrolSpeech is accepted by 2024 ICASSP (Top conference in speech domain)!
 - *2023.11*: One Paper (co-worker) is accepted by CCFA IEEE Transactions on Computers!
-- *2023.08*: We propose TextrolSpeech on arxiv!
+- *2023.11*: Megatts has been successfully deployed into [products](https://www.volcengine.com/product/voicecloning) at ByteDance<img src='./images/tictok.png' style='width: 6em;'>!
 - *2023.08*：I was selected as a reviewer for EMNLP 2023!
 - *2023.05*: We propose Mega-TTS (co-worker) on arxiv!
 - *2023.03*: 🎉🎉 I join [Microsoft Research Asia(MSRA), Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> as a research intern!
@@ -55,7 +56,7 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 ## 🎙 Controllable Speech Synthesis
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TextrolSpeech</div><img src='images\textrolspeech1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 ICASSP</div><img src='images\textrolspeech1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 TextrolSpeech: A Text Style Control Speech Corpus With Codec Language Text-to-Speech Models \\
@@ -81,6 +82,15 @@ Authors: **Shengpeng Ji**, Xulong Zhang, Jianzong Wang, Ziyue Jiang,Jing Xiao
 
 
 ## 📚 Zero-shot TTS
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobileSpeech</div><img src='images\mobilespeech.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+MobileSpeech: A Fast and High-Fidelity Framework for Mobile Zero-Shot Text-to-Speech \\
+Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Jialong Zuo, Zhou Zhao
+
+- Audio samples are available in this [website](https://mobilespeech.github.io/)
+</div>
+</div>
 - ICLR 2024 submit [Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](), Ziyue Jiang, Jinglin Liu, Yi Ren, Jinzheng He, Zhenhui Ye, **Shengpeng Ji**, Chen Zhang, Pengfei Wei, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao
 - arxiv [Mega-TTS: Zero-Shot Text-to-Speech at Scale with Intrinsic Inductive Bias](), Ziyue Jiang, Yi Ren, Zhenhui Ye, Jinglin Liu, Chen Zhang, Qian Yang, **Shengpeng Ji**, Rongjie Huang, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao
 
