@@ -29,7 +29,7 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 # 🔥 News
 - *2023.12*: TextrolSpeech is accepted by 2024 ICASSP (Top conference in speech domain)!
 - *2023.11*: One Paper (co-worker) is accepted by CCFA IEEE Transactions on Computers!
-- *2023.11*: Megatts has been successfully deployed into [products](https://www.volcengine.com/product/voicecloning) at ByteDance<img src='./images/tictok.png' style='width: 6em;'>!
+- *2023.11*: Megatts has been successfully deployed into [products](https://www.volcengine.com/product/voicecloning) at ByteDance<img src='./images/tiktok.png' style='width: 6em;'>!
 - *2023.08*：I was selected as a reviewer for EMNLP 2023!
 - *2023.05*: We propose Mega-TTS (co-worker) on arxiv!
 - *2023.03*: 🎉🎉 I join [Microsoft Research Asia(MSRA), Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> as a research intern!
@@ -82,7 +82,7 @@ Authors: **Shengpeng Ji**, Xulong Zhang, Jianzong Wang, Ziyue Jiang,Jing Xiao
 
 
 ## 📚 Zero-shot TTS
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobileSpeech</div><img src='images\mobilespeech.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobileSpeech</div><img src='images\mobilespeech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 MobileSpeech: A Fast and High-Fidelity Framework for Mobile Zero-Shot Text-to-Speech \\
