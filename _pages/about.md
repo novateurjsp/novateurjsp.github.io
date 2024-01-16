@@ -27,6 +27,7 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 
 
 # 🔥 News
+- *2024.01*: One Paper (co-worker) is accepted by 2024 ICLR (Top conference in machine learning)!
 - *2023.12*: TextrolSpeech is accepted by 2024 ICASSP (Top conference in speech domain)!
 - *2023.11*: One Paper (co-worker) is accepted by CCFA IEEE Transactions on Computers!
 - *2023.11*: Megatts has been successfully deployed into [products](https://www.volcengine.com/product/voicecloning) at ByteDance<img src='./images/tiktok.png' style='width: 6em;'>!
@@ -91,11 +92,11 @@ Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Ji
 - Audio samples are available in this [website](https://mobilespeech.github.io/)
 </div>
 </div>
-- ICLR 2024 submit [Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](), Ziyue Jiang, Jinglin Liu, Yi Ren, Jinzheng He, Zhenhui Ye, **Shengpeng Ji**, Chen Zhang, Pengfei Wei, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao
+- ICLR 2024 [Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](), Ziyue Jiang, Jinglin Liu, Yi Ren, Jinzheng He, Zhenhui Ye, **Shengpeng Ji**, Chen Zhang, Pengfei Wei, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao
 - arxiv [Mega-TTS: Zero-Shot Text-to-Speech at Scale with Intrinsic Inductive Bias](), Ziyue Jiang, Yi Ren, Zhenhui Ye, Jinglin Liu, Chen Zhang, Qian Yang, **Shengpeng Ji**, Rongjie Huang, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao
 
 ## 🧑‍🎨 Machine Learning
-- ``ICML 2024 submit`` [DiscreteWM: Speech Watermarking with Discrete Representations](), Ziyue Jiang*, **Shengpeng Ji<sup>*</sup>**, Yi Ren, Zhenhui Ye, Rongjie Huang, Jinglin Liu, Chen Zhang, Tianyu Pang, Chao Du, Hongcheng Zhu, Zhou Zhao
+- ``ICML 2024 sub,it`` [DiscreteWM: Speech Watermarking with Discrete Representations](), Ziyue Jiang*, **Shengpeng Ji<sup>*</sup>**, Yi Ren, Zhenhui Ye, Rongjie Huang, Jinglin Liu, Chen Zhang, Tianyu Pang, Chao Du, Hongcheng Zhu, Zhou Zhao
 - ``IJCAI 2024 submit`` [All in One Image Restoration under Adverse Weather Conditions using Interaction Enhanced Prompts](), Hanting Wang, Tao Jin, **Shengpeng Ji**, Zhou Zhao
 - ``CCF A IEEE Transactions on Computers`` [Generating Neural Networks for Diverse Networking Classification Tasks via Hardware-Aware Neural Architecture Search](), Guorui Xie, Qing Li, Zhenning Shi, Hanbin Fang, **Shengpeng Ji**, Yong Jiang, Zhenhui Yuan, Lianbo Ma, Mingwei Xu
 - ``CCF B (Chinese) Computer Science`` [A Novel College Entrance Filling Recommendation Algorithm Based on Score Line Prediction and Multi-feature Fusion](), Zeqing Wang, **Shengpeng Ji**, Xin Li, Zixuan Zhao, Pengxu Wang, Xiaosong Han
