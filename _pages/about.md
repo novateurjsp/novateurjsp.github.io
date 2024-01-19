@@ -27,6 +27,7 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 
 
 # 🔥 News
+- *2024.01*: MobileSpeech has been successfully deployed into [Magic6](https://www.hihonor.com/cn/phones/honor-magic6-pro/) series in Honor Mobile phone!
 - *2024.01*: One Paper (co-worker) is accepted by 2024 ICLR (Top conference in machine learning)!
 - *2023.12*: TextrolSpeech is accepted by 2024 ICASSP (Top conference in speech domain)!
 - *2023.11*: One Paper (co-worker) is accepted by CCFA IEEE Transactions on Computers!
@@ -109,7 +110,7 @@ Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Ji
 - *2020.10* Third-class scholarship of Jilin University 
 
 # 📖 Educations
-- *2023.09 - 2025.04*, Master, Software Engineering, Zhejiang University.
+- *2023.09 - 2026.03*, Master, Software Engineering, Zhejiang University.
 - *2019.09 - 2023.06*, Undergraduate, Software Engineering, JiLin Univeristy.
 
 <!-- # 💬 Invited Talks
@@ -117,7 +118,7 @@ Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Ji
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.09 - now* HuaWei Honor,Speech Group, Remote.
+- *2023.09 - now*, HuaWei Honor,Speech Group, Remote.
 - *2023.03 - 2023.08*, [MSRA,Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;">, Beijing HaiDian Area.
 - *2022.11 - 2023.03*, Ping An Techology Company, ShangHai Pudong Area.
 - *2021.11 - 2022.05*, [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/xxxb/list.htm) <img src='./images/qinghua.png' style='width: 6em;'>, Remote.
