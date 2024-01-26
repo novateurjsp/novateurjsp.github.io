@@ -27,6 +27,7 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 
 
 # 🔥 News
+- *2024.01*：I was selected as a reviewer for ACM MM 2024!
 - *2024.01*: MobileSpeech has been successfully deployed into [Magic6](https://www.hihonor.com/cn/phones/honor-magic6-pro/) series in Honor Mobile phone!
 - *2024.01*: One Paper (co-worker) is accepted by 2024 ICLR (Top conference in machine learning)!
 - *2023.12*: TextrolSpeech is accepted by 2024 ICASSP (Top conference in speech domain)!
@@ -84,7 +85,7 @@ Authors: **Shengpeng Ji**, Xulong Zhang, Jianzong Wang, Ziyue Jiang,Jing Xiao
 
 
 ## 📚 Zero-shot TTS
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARR12 submit</div><img src='images\mobilespeech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL ARR12 submit</div><img src='images\mobilespeech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 MobileSpeech: A Fast and High-Fidelity Framework for Mobile Zero-Shot Text-to-Speech \\
