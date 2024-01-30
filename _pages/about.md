@@ -26,6 +26,12 @@ I graduate from the Department of Software Engineering in JiLin University (吉�
 My research interest includes speech synthesis, Generative model and LLM. I look forward to having more paper published at the top international AI conferences such as NeurIPS, ICLR, ACL, IJCAI, ACM MM, AAAI, ICASSP, Interspeech. I have published some papers at the top international AI conferences with total google scholar citations <a href='https://scholar.google.com/citations?user=zuRaB-oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
+# 💻 Important! 
+最近本人在寻求一份2024春季，研究型算法实习生/学术合作的offer，Base 杭州(其次上海/北京/深圳)，可以长期线下实习。研究方向：语音合成，语音大模型相关。对AIGC生成式模型/多模态相关/有很炫酷Demo的方向也很感兴趣。**渴望在新的实习阶段学到一些新的东西，持续努力追求能做出*高引用论文*的工作**，在此基础之上期待能将论文部署成实际算法产品。这是我的[个人简历](https://github.com/novateurjsp/novateurjsp.github.io/blob/main/docs/cv20240130.pdf)，欢迎各位随时联系我，微信手机同号。
+
+
+
+
 # 🔥 News
 - *2024.01*：I was selected as a reviewer for ACM MM 2024!
 - *2024.01*: MobileSpeech has been successfully deployed into [Magic6](https://www.hihonor.com/cn/phones/honor-magic6-pro/) series in Honor Mobile phone!
