@@ -26,8 +26,8 @@ I graduate from the Department of Software Engineering in JiLin University (吉�
 My research interest includes speech synthesis, Generative model and LLM. I look forward to having more paper published at the top international AI conferences such as NeurIPS, ICLR, ACL, IJCAI, ACM MM, AAAI, ICASSP, Interspeech. I have published some papers at the top international AI conferences with total google scholar citations <a href='https://scholar.google.com/citations?user=zuRaB-oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
-# 💻 Important! 
-最近本人在寻求一份2024春季，研究型算法实习生/学术合作的offer，Base 杭州(其次上海/北京/深圳)，可以长期线下实习。研究方向：语音合成，语音大模型相关。对AIGC生成式模型/多模态相关/有很炫酷Demo的方向也很感兴趣。**渴望在新的实习阶段学到一些新的东西，持续努力追求能做出*高引用论文*的工作**，在此基础之上期待能将论文部署成实际算法产品。这是我的[个人简历](./_pages/cv20240130.pdf)，欢迎各位随时联系我，微信手机同号。
+<!-- # 💻 Important! 
+最近本人在寻求一份2024春季，研究型算法实习生/学术合作的offer，Base 杭州(其次上海/北京/深圳)，可以长期线下实习。研究方向：语音合成，语音大模型相关。对AIGC生成式模型/多模态相关/有很炫酷Demo的方向也很感兴趣。**渴望在新的实习阶段学到一些新的东西，持续努力追求能做出*高引用论文*的工作**，在此基础之上期待能将论文部署成实际算法产品。这是我的[个人简历](./_pages/cv20240130.pdf)，欢迎各位随时联系我，微信手机同号。 -->
 
 
 
@@ -47,7 +47,7 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 - *2021.11*: I join [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/xxxb/list.htm) <img src='./images/qinghua.png' style='width: 6em;'> as a remote intern!
 - *2021.10*: 🎉🎉 I win the Nation Scholarship (Top 1%) in the second year of undergraduate.
 
-# 📝 Publications 
+# 📝 Publications（一作/共一）
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,7 +64,6 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 ## 🎙 Controllable Speech Synthesis
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='images\textrolspeech1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -74,6 +73,51 @@ Authors: **Shengpeng Ji**, Jialong Zuo, Minghui Fang, Ziyue Jiang, Feiyang Chen,
 - Audio samples are available in this [website](https://sall-e.github.io/)
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL ARR2 submit</div><img src='images\VSTTS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+VS-TTS: Controllable Voice Stylization for Text-to-Speech with Natural Language Prompts \\
+Authors: Jialung Zuo<sup>*</sup>, Xize Cheng<sup>*</sup>, **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang, Minghui Fang, Zhiqing Hong, Rongjie Huang, Zehan Wang, Tao Jin, Zhou Zhao
+
+- Audio samples are available in this [website](https://vs-tts123.github.io/VSTTS-Demo/)
+</div>
+</div>
+
+## 📚 Zero-shot TTS
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv (ACL meta review 4)</div><img src='images\mobilespeech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+MobileSpeech: A Fast and High-Fidelity Framework for Mobile Zero-Shot Text-to-Speech \\
+Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Jialong Zuo, Zhou Zhao
+
+- Audio samples are available in this [website](https://mobilespeech.github.io/)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL ARR2 submit</div><img src='images\languagecodec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models \\
+Authors: **Shengpeng Ji**, Minghui Fang, Ziyue Jiang, Rongjie Huang, Jialung Zuo, shulei wang, Zhou Zhao
+
+- Codes are available in this [website](https://github.com/speechnovateur/languagecodec_tmp)
+- Audio samples are available in this [website](https://mobilespeech.github.io/)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 submit</div><img src='images\watermark.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+DiscreteWM: Speech Watermarking with Discrete Representations \\
+Authors: Ziyue Jiang*, **Shengpeng Ji<sup>*</sup>**, Yi Ren, Zhenhui Ye, Rongjie Huang, Jinglin Liu, Chen Zhang, Tianyu Pang, Chao Du, Hongcheng Zhu, Zhou Zhao
+
+- Audio samples are available in this [website](https://mobilespeech.github.io/)
+</div>
+</div>
+
+
+
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DiffBeautifier</div><img src='images/DiffBeautifier.jpg' alt="sym" width="100%"></div></div>
@@ -89,8 +133,10 @@ Authors: **Shengpeng Ji**, Xulong Zhang, Jianzong Wang, Ziyue Jiang,Jing Xiao
 </div>
 -->
 
+# 📝 Publications（coworker）
 
 ## 📚 Zero-shot TTS
+<!-- ## 📚 Zero-shot TTS
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL ARR12 submit</div><img src='images\mobilespeech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -99,12 +145,12 @@ Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Ji
 
 - Audio samples are available in this [website](https://mobilespeech.github.io/)
 </div>
-</div>
+</div> -->
 - ICLR 2024 [Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](), Ziyue Jiang, Jinglin Liu, Yi Ren, Jinzheng He, Zhenhui Ye, **Shengpeng Ji**, Chen Zhang, Pengfei Wei, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao
 - arxiv [Mega-TTS: Zero-Shot Text-to-Speech at Scale with Intrinsic Inductive Bias](), Ziyue Jiang, Yi Ren, Zhenhui Ye, Jinglin Liu, Chen Zhang, Qian Yang, **Shengpeng Ji**, Rongjie Huang, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao
 
 ## 🧑‍🎨 Machine Learning
-- ``ICML 2024 submit`` [DiscreteWM: Speech Watermarking with Discrete Representations](), Ziyue Jiang*, **Shengpeng Ji<sup>*</sup>**, Yi Ren, Zhenhui Ye, Rongjie Huang, Jinglin Liu, Chen Zhang, Tianyu Pang, Chao Du, Hongcheng Zhu, Zhou Zhao
+<!-- - ``ICML 2024 submit`` [DiscreteWM: Speech Watermarking with Discrete Representations](), Ziyue Jiang*, **Shengpeng Ji<sup>*</sup>**, Yi Ren, Zhenhui Ye, Rongjie Huang, Jinglin Liu, Chen Zhang, Tianyu Pang, Chao Du, Hongcheng Zhu, Zhou Zhao -->
 - ``IJCAI 2024 submit`` [All in One Image Restoration under Adverse Weather Conditions using Interaction Enhanced Prompts](), Hanting Wang, Tao Jin, **Shengpeng Ji**, Zhou Zhao
 - ``CCF A IEEE Transactions on Computers`` [Generating Neural Networks for Diverse Networking Classification Tasks via Hardware-Aware Neural Architecture Search](), Guorui Xie, Qing Li, Zhenning Shi, Hanbin Fang, **Shengpeng Ji**, Yong Jiang, Zhenhui Yuan, Lianbo Ma, Mingwei Xu
 - ``CCF B (Chinese) Computer Science`` [A Novel College Entrance Filling Recommendation Algorithm Based on Score Line Prediction and Multi-feature Fusion](), Zeqing Wang, **Shengpeng Ji**, Xin Li, Zixuan Zhao, Pengxu Wang, Xiaosong Han
