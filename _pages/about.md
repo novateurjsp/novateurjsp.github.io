@@ -33,7 +33,7 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 
 
 # 🔥 News
-- *2024.02*: I propose SOTA codec models [Language-Codec](https://arxiv.org/abs/2402.12208) [![](https://img.shields.io/github/stars/jishengpeng/languagecodec?style=social&label=Code+Stars)](https://github.com/jishengpeng/languagecodec) on arxiv!
+- *2024.02*: We propose SOTA codec models [Language-Codec](https://arxiv.org/abs/2402.12208) [![](https://img.shields.io/github/stars/jishengpeng/languagecodec?style=social&label=Code+Stars)](https://github.com/jishengpeng/languagecodec) on arxiv!
 - *2024.01*：I was selected as a reviewer for ACM MM 2024!
 - *2024.01*: MobileSpeech has been successfully deployed into [Magic6](https://www.hihonor.com/cn/phones/honor-magic6-pro/) series in Honor Mobile phone!
 - *2024.01*: One Paper (co-worker) is accepted by 2024 ICLR (Top conference in machine learning)!
@@ -153,6 +153,7 @@ Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Ji
 ## 🧑‍🎨 Machine Learning
 <!-- - ``ICML 2024 submit`` [DiscreteWM: Speech Watermarking with Discrete Representations](), Ziyue Jiang*, **Shengpeng Ji<sup>*</sup>**, Yi Ren, Zhenhui Ye, Rongjie Huang, Jinglin Liu, Chen Zhang, Tianyu Pang, Chao Du, Hongcheng Zhu, Zhou Zhao -->
 - ``IJCAI 2024 submit`` [All in One Image Restoration under Adverse Weather Conditions using Interaction Enhanced Prompts](), Hanting Wang, Tao Jin, **Shengpeng Ji**, Zhou Zhao
+- ``ECCV 2024 submit`` [Unlocking the Potential of Multimodal Unified Representation through Training-Free Codebook Optimization and Hierarchical Event Alignment](), Hai Huang, Yan Xia, **Shengpeng Ji**, Shulei Wang, Hanting Wang, JieMing Zhu, Dongzhen Hua, Zhou Zhao
 - ``CCF A IEEE Transactions on Computers`` [Generating Neural Networks for Diverse Networking Classification Tasks via Hardware-Aware Neural Architecture Search](), Guorui Xie, Qing Li, Zhenning Shi, Hanbin Fang, **Shengpeng Ji**, Yong Jiang, Zhenhui Yuan, Lianbo Ma, Mingwei Xu
 - ``CCF B (Chinese) Computer Science`` [A Novel College Entrance Filling Recommendation Algorithm Based on Score Line Prediction and Multi-feature Fusion](), Zeqing Wang, **Shengpeng Ji**, Xin Li, Zixuan Zhao, Pengxu Wang, Xiaosong Han
 
@@ -172,7 +173,7 @@ Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Ji
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.09 - now*, HuaWei Honor,Speech Group, Remote.
+- *2023.09 - now*, HuaWei Honor, Speech Group, Remote.
 - *2023.03 - 2023.08*, [MSRA,Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;">, Beijing HaiDian Area.
 - *2022.11 - 2023.03*, Ping An Techology Company, ShangHai Pudong Area.
 - *2021.11 - 2022.05*, [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/xxxb/list.htm) <img src='./images/qinghua.png' style='width: 6em;'>, Remote.
