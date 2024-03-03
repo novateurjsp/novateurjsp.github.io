@@ -33,7 +33,7 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 
 
 # 🔥 News
-- *2024.02*: We propose SOTA codec models [Language-Codec](https://arxiv.org/abs/2402.12208) [![](https://img.shields.io/github/stars/jishengpeng/languagecodec?style=social&label=Code+Stars)](https://github.com/jishengpeng/languagecodec) on arxiv!
+- *2024.02*: We propose SOTA codec model [Language-Codec](https://arxiv.org/abs/2402.12208) [![](https://img.shields.io/github/stars/jishengpeng/languagecodec?style=social&label=Code+Stars)](https://github.com/jishengpeng/languagecodec) on arxiv!
 - *2024.01*：I was selected as a reviewer for ACM MM 2024!
 - *2024.01*: MobileSpeech has been successfully deployed into [Magic6](https://www.hihonor.com/cn/phones/honor-magic6-pro/) series in Honor Mobile phone!
 - *2024.01*: One Paper (co-worker) is accepted by 2024 ICLR (Top conference in machine learning)!
