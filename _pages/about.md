@@ -75,7 +75,7 @@ Authors: **Shengpeng Ji**, Jialong Zuo, Minghui Fang, Ziyue Jiang, Feiyang Chen,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL ARR2 submit</div><img src='images\VSTTS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under anonymous reviewing</div><img src='images\VSTTS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 VS-TTS: Controllable Voice Stylization for Text-to-Speech with Natural Language Prompts \\
@@ -86,7 +86,7 @@ Authors: Jialung Zuo<sup>*</sup>, Xize Cheng<sup>*</sup>, **Shengpeng Ji<sup>*</
 </div>
 
 ## 📚 Zero-shot TTS
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv (ACL meta review 4)</div><img src='images\mobilespeech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under anonymous reviewing</div><img src='images\mobilespeech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 MobileSpeech: A Fast and High-Fidelity Framework for Mobile Zero-Shot Text-to-Speech \\
@@ -96,7 +96,7 @@ Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Ji
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL ARR2 submit</div><img src='images\languagecodec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under anonymous reviewing</div><img src='images\languagecodec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models \\
@@ -107,7 +107,7 @@ Authors: **Shengpeng Ji**, Minghui Fang, Ziyue Jiang, Rongjie Huang, Jialong Zuo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 submit</div><img src='images\watermark.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under anonymous reviewing</div><img src='images\watermark.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 DiscreteWM: Speech Watermarking with Discrete Representations \\
@@ -147,21 +147,21 @@ Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Ji
 - Audio samples are available in this [website](https://mobilespeech.github.io/)
 </div>
 </div> -->
-- ICLR 2024 [Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](), Ziyue Jiang, Jinglin Liu, Yi Ren, Jinzheng He, Zhenhui Ye, **Shengpeng Ji**, Chen Zhang, Pengfei Wei, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao
+- ICLR 2024 [MegaTTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](), Ziyue Jiang, Jinglin Liu, Yi Ren, Jinzheng He, Zhenhui Ye, **Shengpeng Ji**, Chen Zhang, Pengfei Wei, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao
 - arxiv [Mega-TTS: Zero-Shot Text-to-Speech at Scale with Intrinsic Inductive Bias](), Ziyue Jiang, Yi Ren, Zhenhui Ye, Jinglin Liu, Chen Zhang, Qian Yang, **Shengpeng Ji**, Rongjie Huang, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao
 
 ## 🧑‍🎨 Machine Learning
 <!-- - ``ICML 2024 submit`` [DiscreteWM: Speech Watermarking with Discrete Representations](), Ziyue Jiang*, **Shengpeng Ji<sup>*</sup>**, Yi Ren, Zhenhui Ye, Rongjie Huang, Jinglin Liu, Chen Zhang, Tianyu Pang, Chao Du, Hongcheng Zhu, Zhou Zhao -->
-- ``IJCAI 2024 submit`` [All in One Image Restoration under Adverse Weather Conditions using Interaction Enhanced Prompts](), Hanting Wang, Tao Jin, **Shengpeng Ji**, Zhou Zhao
-- ``ECCV 2024 submit`` [Unlocking the Potential of Multimodal Unified Representation through Training-Free Codebook Optimization and Hierarchical Event Alignment](), Hai Huang, Yan Xia, **Shengpeng Ji**, Shulei Wang, Hanting Wang, JieMing Zhu, Dongzhen Hua, Zhou Zhao
+- ``under anonymous reviewing`` [All in One Image Restoration under Adverse Weather Conditions using Interaction Enhanced Prompts](), Hanting Wang, Tao Jin, **Shengpeng Ji**, Zhou Zhao
+- ``under anonymous reviewing`` [Unlocking the Potential of Multimodal Unified Representation through Training-Free Codebook Optimization and Hierarchical Event Alignment](), Hai Huang, Yan Xia, **Shengpeng Ji**, Shulei Wang, Hanting Wang, JieMing Zhu, Dongzhen Hua, Zhou Zhao
 - ``CCF A IEEE Transactions on Computers`` [Generating Neural Networks for Diverse Networking Classification Tasks via Hardware-Aware Neural Architecture Search](), Guorui Xie, Qing Li, Zhenning Shi, Hanbin Fang, **Shengpeng Ji**, Yong Jiang, Zhenhui Yuan, Lianbo Ma, Mingwei Xu
 - ``CCF B (Chinese) Computer Science`` [A Novel College Entrance Filling Recommendation Algorithm Based on Score Line Prediction and Multi-feature Fusion](), Zeqing Wang, **Shengpeng Ji**, Xin Li, Zixuan Zhao, Pengxu Wang, Xiaosong Han
 
 # 🎖 Honors and Awards
 - *2023.06* Outstanding graduate of Jilin University (Top 5%)
-- *2023.06* One-class scholarship of Jilin University (Top 1%, 1/392)
+- *2023.06* One-class scholarship of Jilin University (Top 0.25%, 1/392)
 - *2022.10* Second-class scholarship of Jilin University
-- *2021.10* National Scholarship (Undergraduate) (Top 1%, 5/392)
+- *2021.10* National Scholarship (Undergraduate) (Top 1.27%, 5/392)
 - *2020.10* Third-class scholarship of Jilin University 
 
 # 📖 Educations
