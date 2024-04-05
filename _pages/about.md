@@ -33,7 +33,7 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 
 
 # 🔥 News
-- *2024.04*: I join <img src='./images/ali.png' style="width: 4em;"> [Alibaba,  DAMO Academy, Tongyi Lab](https://tongyi.aliyun.com/) <img src='./images/tongyi.png' style="width: 4em;"> as a research intern.
+- *2024.04*: I join <img src='./images/ali.png' style="width: 5em;"> [Alibaba,  DAMO Academy, Tongyi Lab](https://tongyi.aliyun.com/) <img src='./images/tongyi.png' style="width: 4em;"> as a research intern.
 - *2024.03*：I was selected as a reviewer for ECCV 2024.
 - *2024.02*: We propose SOTA codec model [Language-Codec](https://arxiv.org/abs/2402.12208) [![](https://img.shields.io/github/stars/jishengpeng/languagecodec?style=social&label=Code+Stars)](https://github.com/jishengpeng/languagecodec) on arxiv.
 - *2024.01*：I was selected as a reviewer for ACM MM 2024.
@@ -44,7 +44,7 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 - *2023.11*: Megatts has been successfully deployed into [products](https://www.volcengine.com/product/voicecloning) at ByteDance<img src='./images/tiktok.png' style='width: 6em;'>!
 - *2023.08*：I was selected as a reviewer for EMNLP 2023.
 - *2023.03*: 🎉🎉 I join [Microsoft Research Asia(MSRA), Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> as a research intern!
-- *2022.11*: I join Ping An Technology Company <img src='./images/pingan.png' style='width: 6em;'> as a speech junior algorithm engineer in Shanghai!
+- *2022.11*: I join Ping An Technology Company <img src='./images/pingan.png' style='width: 5em;'> as a speech junior algorithm engineer in Shanghai!
 - *2022.10*: I got the offer of postgraduate study in the School of Software of [Zhejiang University](http://www.cst.zju.edu.cn/). 
 - *2021.11*: I join [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/xxxb/list.htm) <img src='./images/qinghua.png' style='width: 6em;'> as a remote intern.
 - *2021.10*: 🎉🎉 I win the Nation Scholarship (Top 1%) in the second year of undergraduate!
@@ -174,7 +174,7 @@ Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Ji
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.04 - now*, [Alibaba, DAMO Academy, Tongyi Lab](https://tongyi.aliyun.com/) <img src='./images/ali.png' style="width: 4em;">, hangzhou.
+- *2024.04 - now*, [Alibaba, DAMO Academy, Tongyi Lab](https://tongyi.aliyun.com/) <img src='./images/ali.png' style="width: 5em;">, hangzhou.
 - *2023.03 - 2023.08*, [MSRA,Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;">, Beijing HaiDian Area.
 - *2022.11 - 2023.03*, Ping An Techology Company, ShangHai Pudong Area.
 - *2021.11 - 2022.05*, [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/xxxb/list.htm) <img src='./images/qinghua.png' style='width: 6em;'>, Remote.
