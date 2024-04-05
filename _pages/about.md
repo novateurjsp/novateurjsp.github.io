@@ -29,11 +29,11 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 <!-- # 💻 Important! 
 最近本人在寻求一份2024春季，研究型算法实习生/学术合作的offer，Base 杭州(其次上海/北京/深圳)，可以长期线下实习。研究方向：语音合成，语音大模型相关。对AIGC生成式模型/多模态相关/有很炫酷Demo的方向也很感兴趣。**渴望在新的实习阶段学到一些新的东西，持续努力追求能做出*高引用论文*的工作**，在此基础之上期待能将论文部署成实际算法产品。这是我的[个人简历](./_pages/cv20240130.pdf)，欢迎各位随时联系我，微信手机同号。 -->
 
-
+<!-- 🚧 ⛏️ 🛠️ 👷   -->
 
 
 # 🔥 News
-- *2024.04*: 🚧 ⛏️ 🛠️ 👷  I join [Alibaba,  DAMO Academy, Tongyi Lab](https://tongyi.aliyun.com/) <img src='./images/tongyi.png' style="width: 4em;"> as a research intern.
+- *2024.04*: I join <img src='./images/ali.png' style="width: 4em;"> [Alibaba,  DAMO Academy, Tongyi Lab](https://tongyi.aliyun.com/) <img src='./images/tongyi.png' style="width: 4em;"> as a research intern.
 - *2024.03*：I was selected as a reviewer for ECCV 2024.
 - *2024.02*: We propose SOTA codec model [Language-Codec](https://arxiv.org/abs/2402.12208) [![](https://img.shields.io/github/stars/jishengpeng/languagecodec?style=social&label=Code+Stars)](https://github.com/jishengpeng/languagecodec) on arxiv.
 - *2024.01*：I was selected as a reviewer for ACM MM 2024.
@@ -174,7 +174,7 @@ Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Ji
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.04 - now*, [Alibaba, DAMO Academy, Tongyi Lab](https://tongyi.aliyun.com/) <img src='./images/alibaba.png' style="width: 3em;">, hangzhou.
+- *2023.04 - now*, [Alibaba, DAMO Academy, Tongyi Lab](https://tongyi.aliyun.com/) <img src='./images/ali.png' style="width: 4em;">, hangzhou.
 - *2023.03 - 2023.08*, [MSRA,Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;">, Beijing HaiDian Area.
 - *2022.11 - 2023.03*, Ping An Techology Company, ShangHai Pudong Area.
 - *2021.11 - 2022.05*, [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/xxxb/list.htm) <img src='./images/qinghua.png' style='width: 6em;'>, Remote.
