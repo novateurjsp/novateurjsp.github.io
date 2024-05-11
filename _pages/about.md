@@ -40,7 +40,7 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 - *2024.01*：I was selected as a reviewer for ACM MM 2024.
 - *2024.01*: MobileSpeech has been successfully deployed into [Magic6](https://www.hihonor.com/cn/phones/honor-magic6-pro/) series in Honor Mobile phone!
 - *2024.01*: MagaTTS 2 (co-worker) is accepted by 2024 ICLR (Top conference in machine learning)!
-- *2023.12*: TextrolSpeech is accepted by 2024 ICASSP (Top conference in speech domain)!
+- *2023.12*: TextrolSpeech (https://img.shields.io/github/stars/jishengpeng/TextrolSpeech?style=social&label=Code+Stars)][![](https://github.com/jishengpeng/TextrolSpeech) is accepted by 2024 ICASSP (Top conference in speech domain)!
 - *2023.11*: One Paper (co-worker) is accepted by CCFA IEEE Transactions on Computers.
 - *2023.11*: Megatts has been successfully deployed into [products](https://www.volcengine.com/product/voicecloning) at ByteDance<img src='./images/tiktok.png' style='width: 6em;'>!
 - *2023.08*：I was selected as a reviewer for EMNLP 2023.
@@ -65,7 +65,7 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-## 🎙 Controllable Speech Synthesis
+## 🎙 Controllable Speech Synthesis, Zero-shot TTS, Speech Representation(Codec), Speech Watermarking
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='images\textrolspeech1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -87,7 +87,7 @@ Authors: Jialung Zuo<sup>*</sup>, Xize Cheng<sup>*</sup>, **Shengpeng Ji<sup>*</
 </div>
 </div>
 
-## 📚 Zero-shot TTS
+ <!-- ## 📚 Zero-shot TTS -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">under anonymous reviewing</div><img src='images\mobilespeech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -137,8 +137,6 @@ Authors: **Shengpeng Ji**, Xulong Zhang, Jianzong Wang, Ziyue Jiang,Jing Xiao
 -->
 
 # 📝 Publications（coworker）
-
-## 📚 Zero-shot TTS
 <!-- ## 📚 Zero-shot TTS
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL ARR12 submit</div><img src='images\mobilespeech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -149,15 +147,16 @@ Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Ji
 - Audio samples are available in this [website](https://mobilespeech.github.io/)
 </div>
 </div> -->
-- ICLR 2024 [MegaTTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](), Ziyue Jiang, Jinglin Liu, Yi Ren, Jinzheng He, Zhenhui Ye, **Shengpeng Ji**, Chen Zhang, Pengfei Wei, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao
-- arxiv [Mega-TTS: Zero-Shot Text-to-Speech at Scale with Intrinsic Inductive Bias](), Ziyue Jiang, Yi Ren, Zhenhui Ye, Jinglin Liu, Chen Zhang, Qian Yang, **Shengpeng Ji**, Rongjie Huang, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao
+- ICLR 2024 (Zero-shot TTS) [MegaTTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](), Ziyue Jiang, Jinglin Liu, Yi Ren, Jinzheng He, Zhenhui Ye, **Shengpeng Ji**, Chen Zhang, Pengfei Wei, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao
+- arxiv (Zero-shot TTS) [Mega-TTS: Zero-Shot Text-to-Speech at Scale with Intrinsic Inductive Bias](), Ziyue Jiang, Yi Ren, Zhenhui Ye, Jinglin Liu, Chen Zhang, Qian Yang, **Shengpeng Ji**, Rongjie Huang, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao
 
-## 🧑‍🎨 Machine Learning
+<!-- ## 🧑‍🎨 Machine Learning -->
 <!-- - ``ICML 2024 submit`` [DiscreteWM: Speech Watermarking with Discrete Representations](), Ziyue Jiang*, **Shengpeng Ji<sup>*</sup>**, Yi Ren, Zhenhui Ye, Rongjie Huang, Jinglin Liu, Chen Zhang, Tianyu Pang, Chao Du, Hongcheng Zhu, Zhou Zhao -->
-- ``under anonymous reviewing`` [All in One Image Restoration under Adverse Weather Conditions using Interaction Enhanced Prompts](), Hanting Wang, Tao Jin, **Shengpeng Ji**, Zhou Zhao
-- ``under anonymous reviewing`` [Unlocking the Potential of Multimodal Unified Representation through Training-Free Codebook Optimization and Hierarchical Event Alignment](), Hai Huang, Yan Xia, **Shengpeng Ji**, Shulei Wang, Hanting Wang, JieMing Zhu, Dongzhen Hua, Zhou Zhao
-- ``CCF A IEEE Transactions on Computers`` [Generating Neural Networks for Diverse Networking Classification Tasks via Hardware-Aware Neural Architecture Search](), Guorui Xie, Qing Li, Zhenning Shi, Hanbin Fang, **Shengpeng Ji**, Yong Jiang, Zhenhui Yuan, Lianbo Ma, Mingwei Xu
-- ``CCF B (Chinese) Computer Science`` [A Novel College Entrance Filling Recommendation Algorithm Based on Score Line Prediction and Multi-feature Fusion](), Zeqing Wang, **Shengpeng Ji**, Xin Li, Zixuan Zhao, Pengxu Wang, Xiaosong Han
+- ``under anonymous reviewing (Cross-Modal Retrieval)`` [ACE: A Generative Cross-Modal Retrieval Framework With Coarse-To-Fine Semantic Modeling](), Minghui Fang, **Shengpeng Ji**, Jialong Zuo, Hai Huang, Yan Xia, Jieming Zhu, Xize Cheng, Xiaoda Yang, Wenrui Liu, Gang Wang, Zhenhua Dong, Zhou Zhao
+- ``under anonymous reviewing (Speaker Generation)`` [SyncTalklip: Highly Synchronized Lip-Readable Speaker Generation with Multi-Task Learning](), Xiaoda Yang, Xize Cheng, Dongjie Fu, Minghui Fang, Jialung Zuo, **Shengpeng Ji**, Tao Jin, Zhou Zhao
+- ``under anonymous reviewing (Multimodal Representation)`` [Unlocking the Potential of Multimodal Unified Representation through Training-Free Codebook Optimization and Hierarchical Event Alignment](), Hai Huang, Yan Xia, **Shengpeng Ji**, Shulei Wang, Hanting Wang, JieMing Zhu, Dongzhen Hua, Zhou Zhao
+- ``CCF A IEEE Transactions on Computers (Neural Architecture Search + Network)`` [Generating Neural Networks for Diverse Networking Classification Tasks via Hardware-Aware Neural Architecture Search](), Guorui Xie, Qing Li, Zhenning Shi, Hanbin Fang, **Shengpeng Ji**, Yong Jiang, Zhenhui Yuan, Lianbo Ma, Mingwei Xu
+- ``CCF B (Chinese) Computer Science (Application)`` [A Novel College Entrance Filling Recommendation Algorithm Based on Score Line Prediction and Multi-feature Fusion](), Zeqing Wang, **Shengpeng Ji**, Xin Li, Zixuan Zhao, Pengxu Wang, Xiaosong Han
 
 # 🎖 Honors and Awards
 - *2023.06* Outstanding graduate of Jilin University (Top 5%)
@@ -175,7 +174,7 @@ Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Ji
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.04 - now*, [Alibaba, DAMO Academy, Tongyi Lab](https://tongyi.aliyun.com/) <img src='./images/ali.png' style="width: 5em;">, hangzhou.
+- *2024.04 - now*, [Alibaba, DAMO Academy, Tongyi Lab](https://tongyi.aliyun.com/) <img src='./images/ali.png' style="width: 5em;">, Hangzhou YunGu.
 - *2023.03 - 2023.08*, [MSRA,Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;">, Beijing HaiDian Area.
 - *2022.11 - 2023.03*, Ping An Techology Company, ShangHai Pudong Area.
 - *2021.11 - 2022.05*, [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/xxxb/list.htm) <img src='./images/qinghua.png' style='width: 6em;'>, Remote.
