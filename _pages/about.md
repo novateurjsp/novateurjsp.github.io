@@ -50,7 +50,7 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 - *2021.11*: I join [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/xxxb/list.htm) <img src='./images/qinghua.png' style='width: 6em;'> as a remote intern.
 - *2021.10*: 🎉🎉 I win the Nation Scholarship (Top 1%) in the second year of undergraduate!
 
-# 📝 Publications（一作/共一）
+# 📝 First-Author Publications（* equal contribution）
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -65,7 +65,7 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-## 🎙 Controllable Speech Synthesis, Zero-shot TTS, Speech Representation(Codec)
+## 🎙 Controllable and Zero-shot Text-to-Speech, Codec Representation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='images\textrolspeech1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -136,7 +136,7 @@ Authors: **Shengpeng Ji**, Xulong Zhang, Jianzong Wang, Ziyue Jiang,Jing Xiao
 </div>
 -->
 
-# 📝 Publications（coworker）
+# 📝 Co-worker Publications
 <!-- ## 📚 Zero-shot TTS
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL ARR12 submit</div><img src='images\mobilespeech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
