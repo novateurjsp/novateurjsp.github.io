@@ -33,8 +33,8 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 
 
 # 🔥 News
-<!--
-- *2024.04*: I join <img src='./images/ali.png' style="width: 5em;"> [Alibaba,  DAMO Academy, Tongyi Lab](https://tongyi.aliyun.com/) <img src='./images/tongyi.png' style="width: 4em;"> as a research intern. -->
+- *2024.05*: MobileSpeech is accepted by 2024 ACL Main(Top conference in natural language processing)!
+- *2024.04*: I join <img src='./images/ali.png' style="width: 5em;"> [Alibaba,  DAMO Academy, Tongyi Lab](https://tongyi.aliyun.com/) <img src='./images/tongyi.png' style="width: 4em;"> as a research intern. 
 - *2024.03*：I was selected as a reviewer for ECCV 2024.
 - *2024.02*: We propose SOTA codec model [Language-Codec](https://arxiv.org/abs/2402.12208) [![](https://img.shields.io/github/stars/jishengpeng/languagecodec?style=social&label=Code+Stars)](https://github.com/jishengpeng/languagecodec) on arxiv.
 - *2024.01*：I was selected as a reviewer for ACM MM 2024.
@@ -74,6 +74,18 @@ TextrolSpeech: A Text Style Control Speech Corpus With Codec Language Text-to-Sp
 Authors: **Shengpeng Ji**, Jialong Zuo, Minghui Fang, Ziyue Jiang, Feiyang Chen, Xinyu Duan, Baoxing Huai, Zhou Zhao
 
 - Audio samples are available in this [website](https://sall-e.github.io/)
+- Codec is available in this [![](https://img.shields.io/github/stars/jishengpeng/TextrolSpeech?style=social&label=Code+Stars)](https://github.com/jishengpeng/TextrolSpeech)
+</div>
+</div>
+
+ <!-- ## 📚 Zero-shot TTS -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Main</div><img src='images\mobilespeech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+MobileSpeech: A Fast and High-Fidelity Framework for Mobile Zero-Shot Text-to-Speech \\
+Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Jialong Zuo, Zhou Zhao
+
+- Audio samples are available in this [website](https://mobilespeech.github.io/)
 </div>
 </div>
 
@@ -87,24 +99,13 @@ Authors: Jialung Zuo<sup>*</sup>, Xize Cheng<sup>*</sup>, **Shengpeng Ji<sup>*</
 </div>
 </div>
 
- <!-- ## 📚 Zero-shot TTS -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under anonymous reviewing</div><img src='images\mobilespeech.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-MobileSpeech: A Fast and High-Fidelity Framework for Mobile Zero-Shot Text-to-Speech \\
-Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Jialong Zuo, Zhou Zhao
-
-- Audio samples are available in this [website](https://mobilespeech.github.io/)
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">under anonymous reviewing</div><img src='images\languagecodec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models \\
 Authors: **Shengpeng Ji**, Minghui Fang, Ziyue Jiang, Rongjie Huang, Jialong Zuo, Shulei Wang, Zhou Zhao
 
-- Codes are available in this [website](https://github.com/jishengpeng/languagecodec) [![](https://img.shields.io/github/stars/jishengpeng/languagecodec?style=social&label=Code+Stars)](https://github.com/jishengpeng/languagecodec) !
+- Codes are available in this [website](https://github.com/jishengpeng/languagecodec) [![](https://img.shields.io/github/stars/jishengpeng/languagecodec?style=social&label=Code+Stars)](https://github.com/jishengpeng/languagecodec) 
 - Audio samples are available in this [website](https://languagecodec.github.io/)
 </div>
 </div>
