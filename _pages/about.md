@@ -33,6 +33,7 @@ My research interest includes speech synthesis, Generative model and LLM. I look
 
 
 # 🔥 News
+- *2024.05*: I was selected as a reviewer for NIPS 2024.
 - *2024.05*: MobileSpeech is accepted by 2024 ACL Main(Top conference in nlp)!
 - *2024.04*: I join <img src='./images/ali.png' style="width: 5em;"> [Alibaba,  DAMO Academy, Tongyi Lab](https://tongyi.aliyun.com/) <img src='./images/tongyi.png' style="width: 4em;"> as a research intern. 
 - *2024.03*：I was selected as a reviewer for ECCV 2024.
