@@ -7,7 +7,9 @@ main:
     url: "/#-news"
 
   - title: "Publications(一作论文)"
-    url: "/#-publications"
+    url: "/#-first-author-publications"
+    # url: "/#-publications"
+    # url: "/#-first-author-publications"
 
   - title: "Honors and Awards(荣誉)"
     url: "/#-honors-and-awards"
