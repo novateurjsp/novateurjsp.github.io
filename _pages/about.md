@@ -19,11 +19,11 @@ redirect_from:
 
 I am a first-year master's student in Zhejiang University now. I also worked at [MSRA-Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> as a research intern in Beijing ago, doing some LLM and speech research. 
 
-<!-- I am now working on Text to speech, large language models, Generative model research. If you are seeking any form of **academic cooperation**, please feel free to email me at shengpengji@zju.edu.cn. -->
+<!-- I am now working on Text to speech, large speech language models, Generative model research. If you are seeking any form of **academic cooperation**, please feel free to email me at shengpengji@zju.edu.cn. -->
 
 I graduate from the Department of Software Engineering in JiLin University (吉林大学软件学院) with a bachelor's degree and continue to study in Zhejiang University (浙江大学软件学院) with a master's degree now, advised by [Zhou Zhao (赵洲)](https://person.zju.edu.cn/zhaozhou). I also collaborate with [Zhou Long (周龙)](https://long-zhou.github.io/), [ShuJie Liu (刘树杰)](https://www.microsoft.com/en-us/research/people/shujliu/) from [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) closely. 
 
-My research interest includes speech synthesis, Generative model and LLM. If you are seeking any form of **academic cooperation**, please feel free to email me at shengpengji@zju.edu.cn.  I have published some papers at the top international AI conferences such as ICLR 2024, ACL2024, ICASSP2024 with total google scholar citations <a href='https://scholar.google.com/citations?user=zuRaB-oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes speech synthesis, Generative model and LLM. I look forward to having more paper published at the top international AI conferences such as NeurIPS, ICLR, ACL, IJCAI, ACM MM, AAAI, ICASSP, Interspeech. I have published some papers at the top international AI conferences with total google scholar citations <a href='https://scholar.google.com/citations?user=zuRaB-oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 <!-- # 💻 Important! 
@@ -33,6 +33,7 @@ My research interest includes speech synthesis, Generative model and LLM. If you
 
 
 # 🔥 News
+- *2024.06*: We propose [ControlSpeech](https://github.com/jishengpeng/controlspeech) [![](https://img.shields.io/github/stars/jishengpeng/ControlSpeech?style=social&label=Code+Stars)](https://github.com/jishengpeng/controlspeech) on arxiv.
 - *2024.05*: I was selected as a reviewer for NIPS 2024.
 - *2024.05*: MobileSpeech is accepted by 2024 ACL Main(Top conference in nlp)!
 - *2024.04*: I join <img src='./images/ali.png' style="width: 5em;"> [Alibaba,  DAMO Academy, Tongyi Lab](https://tongyi.aliyun.com/) <img src='./images/tongyi.png' style="width: 4em;"> as a research intern. 
@@ -51,7 +52,7 @@ My research interest includes speech synthesis, Generative model and LLM. If you
 - *2021.11*: I join [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/xxxb/list.htm) <img src='./images/qinghua.png' style='width: 6em;'> as a remote intern.
 - *2021.10*: 🎉🎉 I win the Nation Scholarship (Top 1%) in the second year of undergraduate!
 
-# 📝 First-Author Publications（* equal contribution）
+# 📝 Publications
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -90,6 +91,35 @@ Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Ji
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under anonymous reviewing</div><img src='images\languagecodec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ControlSpeech: Towards Simultaneous Zero-shot Speaker Cloning and Zero-shot Language Style Control With Decoupled Codec \\
+Authors: **Shengpeng Ji**, Jialong Zuo, Minghui Fang, Siqi Zheng, Qian Chen, Wen Wang, Ziyue Jiang, Hai Huang, Xize Cheng, Rongjie Huang, Zhou Zhao 
+
+- Codes are available in this [website](https://github.com/jishengpeng/ControlSpeech) [![](https://img.shields.io/github/stars/jishengpeng/ControlSpeech?style=social&label=Code+Stars)](https://github.com/jishengpeng/ControlSpeech) 
+- Audio samples are available in this [website](https://controlspeech.github.io/)
+</div>
+</div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under anonymous reviewing</div><img src='images\controlspeech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models \\
+Authors: **Shengpeng Ji**, Minghui Fang, Ziyue Jiang, Rongjie Huang, Jialong Zuo, Shulei Wang, Zhou Zhao
+
+- Codes are available in this [website](https://github.com/jishengpeng/languagecodec) [![](https://img.shields.io/github/stars/jishengpeng/languagecodec?style=social&label=Code+Stars)](https://github.com/jishengpeng/languagecodec) 
+- Audio samples are available in this [website](https://languagecodec.github.io/)
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">under anonymous reviewing</div><img src='images\VSTTS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -100,7 +130,7 @@ Authors: Jialung Zuo<sup>*</sup>, Xize Cheng<sup>*</sup>, **Shengpeng Ji<sup>*</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under anonymous reviewing</div><img src='images\languagecodec.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">under anonymous reviewing</div><img src='images\languagecodec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models \\
@@ -109,7 +139,7 @@ Authors: **Shengpeng Ji**, Minghui Fang, Ziyue Jiang, Rongjie Huang, Jialong Zuo
 - Codes are available in this [website](https://github.com/jishengpeng/languagecodec) [![](https://img.shields.io/github/stars/jishengpeng/languagecodec?style=social&label=Code+Stars)](https://github.com/jishengpeng/languagecodec) 
 - Audio samples are available in this [website](https://languagecodec.github.io/)
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">under anonymous reviewing</div><img src='images\watermark.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -138,7 +168,9 @@ Authors: **Shengpeng Ji**, Xulong Zhang, Jianzong Wang, Ziyue Jiang,Jing Xiao
 </div>
 -->
 
-# 📝 Co-worker Publications
+<!-- # 📝 Co-worker Publications -->
+
+
 <!-- ## 📚 Zero-shot TTS
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL ARR12 submit</div><img src='images\mobilespeech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -149,16 +181,16 @@ Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Ji
 - Audio samples are available in this [website](https://mobilespeech.github.io/)
 </div>
 </div> -->
-- ``ICLR 2024 (Zero-shot TTS)`` [MegaTTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](), Ziyue Jiang, Jinglin Liu, Yi Ren, Jinzheng He, Zhenhui Ye, **Shengpeng Ji**, Chen Zhang, Pengfei Wei, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao
-- ``arxiv (Zero-shot TTS)`` [Mega-TTS: Zero-Shot Text-to-Speech at Scale with Intrinsic Inductive Bias](), Ziyue Jiang, Yi Ren, Zhenhui Ye, Jinglin Liu, Chen Zhang, Qian Yang, **Shengpeng Ji**, Rongjie Huang, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao
+<!-- - ``ICLR 2024 (Zero-shot TTS)`` [MegaTTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](), Ziyue Jiang, Jinglin Liu, Yi Ren, Jinzheng He, Zhenhui Ye, **Shengpeng Ji**, Chen Zhang, Pengfei Wei, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao
+- ``arxiv (Zero-shot TTS)`` [Mega-TTS: Zero-Shot Text-to-Speech at Scale with Intrinsic Inductive Bias](), Ziyue Jiang, Yi Ren, Zhenhui Ye, Jinglin Liu, Chen Zhang, Qian Yang, **Shengpeng Ji**, Rongjie Huang, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao -->
 
 <!-- ## 🧑‍🎨 Machine Learning -->
 <!-- - ``ICML 2024 submit`` [DiscreteWM: Speech Watermarking with Discrete Representations](), Ziyue Jiang*, **Shengpeng Ji<sup>*</sup>**, Yi Ren, Zhenhui Ye, Rongjie Huang, Jinglin Liu, Chen Zhang, Tianyu Pang, Chao Du, Hongcheng Zhu, Zhou Zhao -->
-- ``under anonymous reviewing (Cross-Modal Retrieval)`` [ACE: A Generative Cross-Modal Retrieval Framework With Coarse-To-Fine Semantic Modeling](), Minghui Fang, **Shengpeng Ji**, Jialong Zuo, Hai Huang, Yan Xia, Jieming Zhu, Xize Cheng, Xiaoda Yang, Wenrui Liu, Gang Wang, Zhenhua Dong, Zhou Zhao
+<!-- - ``under anonymous reviewing (Cross-Modal Retrieval)`` [ACE: A Generative Cross-Modal Retrieval Framework With Coarse-To-Fine Semantic Modeling](), Minghui Fang, **Shengpeng Ji**, Jialong Zuo, Hai Huang, Yan Xia, Jieming Zhu, Xize Cheng, Xiaoda Yang, Wenrui Liu, Gang Wang, Zhenhua Dong, Zhou Zhao
 - ``under anonymous reviewing (Speaker Generation)`` [SyncTalklip: Highly Synchronized Lip-Readable Speaker Generation with Multi-Task Learning](), Xiaoda Yang, Xize Cheng, Dongjie Fu, Minghui Fang, Jialung Zuo, **Shengpeng Ji**, Tao Jin, Zhou Zhao
 - ``under anonymous reviewing (Multimodal Representation)`` [Unlocking the Potential of Multimodal Unified Representation through Training-Free Codebook Optimization and Hierarchical Event Alignment](), Hai Huang, Yan Xia, **Shengpeng Ji**, Shulei Wang, Hanting Wang, JieMing Zhu, Dongzhen Hua, Zhou Zhao
 - ``CCF A IEEE Transactions on Computers (Neural Architecture Search + Network)`` [Generating Neural Networks for Diverse Networking Classification Tasks via Hardware-Aware Neural Architecture Search](), Guorui Xie, Qing Li, Zhenning Shi, Hanbin Fang, **Shengpeng Ji**, Yong Jiang, Zhenhui Yuan, Lianbo Ma, Mingwei Xu
-- ``CCF B (Chinese) Computer Science (Application)`` [A Novel College Entrance Filling Recommendation Algorithm Based on Score Line Prediction and Multi-feature Fusion](), Zeqing Wang, **Shengpeng Ji**, Xin Li, Zixuan Zhao, Pengxu Wang, Xiaosong Han
+- ``CCF B (Chinese) Computer Science (Application)`` [A Novel College Entrance Filling Recommendation Algorithm Based on Score Line Prediction and Multi-feature Fusion](), Zeqing Wang, **Shengpeng Ji**, Xin Li, Zixuan Zhao, Pengxu Wang, Xiaosong Han -->
 
 # 🎖 Honors and Awards
 - *2023.06* Outstanding graduate of Jilin University (Top 5%)
