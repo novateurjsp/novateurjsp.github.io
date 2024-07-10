@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year master's student in Zhejiang University now. I also worked at [MSRA-Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> as a research intern in Beijing ago, doing some LLM and speech research. 
+I am a first-year master's student in Zhejiang University. I also worked at [MSRA-Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> as a research intern in Beijing ago, doing some LLM and speech research. 
 
 <!-- I am now working on Text to speech, large speech language models, Generative model research. If you are seeking any form of **academic cooperation**, please feel free to email me at shengpengji@zju.edu.cn. -->
 
@@ -36,6 +36,7 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 
 
 # 🔥 News
+- *2024.07*: Alibaba Tongyi (co-worker) **open source** a large speech system [![](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social&label=Code+Stars)](https://github.com/FunAudioLLM/CosyVoice) and release technical report [FunAudioLLM](https://arxiv.org/abs/2407.04051) which will largely influence the speech area!
 - *2024.06*: We propose [ControlSpeech](https://github.com/jishengpeng/controlspeech) [![](https://img.shields.io/github/stars/jishengpeng/ControlSpeech?style=social&label=Code+Stars)](https://github.com/jishengpeng/controlspeech) on arxiv.
 - *2024.05*: I was selected as a reviewer for NIPS 2024.
 - *2024.05*: MobileSpeech is accepted by 2024 ACL Main(Top conference in nlp)!
@@ -153,6 +154,10 @@ Authors: Ziyue Jiang*, **Shengpeng Ji<sup>*</sup>**, Yi Ren, Zhenhui Ye, Rongjie
 - Audio samples are available in this [website](https://mobilespeech.github.io/)
 </div>
 </div>
+
+
+ ``Alibaba Technical report`` [FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs](https://arxiv.org/abs/2407.04051), Keyu An, Qian Chen, Chong Deng, Zhihao Du, Changfeng Gao, Zhifu Gao, Yue Gu, Ting He, Hangrui Hu, Kai Hu, **Shengpeng Ji**, Yabin Li, Zerui Li, Heng Lu, Xiang Lv, Bin Ma, Ziyang Ma, Chongjia Ni, Changhe Song, Jiaqi Shi, Xian Shi, Hao Wang, Wen Wang, Yuxuan Wang, Zhangyu Xiao, Zhijie Yan, Yexin Yang, Bin Zhang, Qinglin Zhang, Shiliang Zhang, Nan Zhao, Siqi Zheng
+ 
 
 
 
