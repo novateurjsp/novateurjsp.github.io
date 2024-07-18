@@ -37,6 +37,7 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 
 # 🔥 News
 - *2024.07*: Alibaba Tongyi (co-worker) **open source** a large speech system [![](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social&label=Code+Stars)](https://github.com/FunAudioLLM/CosyVoice) and release technical report [FunAudioLLM](https://arxiv.org/abs/2407.04051) which will largely influence the speech area!
+- *2024.07*: One paper(co-worker) is accepted by 2024 ACMMM!
 - *2024.06*: We propose [ControlSpeech](https://github.com/jishengpeng/controlspeech) [![](https://img.shields.io/github/stars/jishengpeng/ControlSpeech?style=social&label=Code+Stars)](https://github.com/jishengpeng/controlspeech) on arxiv.
 - *2024.05*: I was selected as a reviewer for NIPS 2024.
 - *2024.05*: MobileSpeech is accepted by 2024 ACL Main(Top conference in nlp)!
@@ -56,7 +57,7 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 - *2021.11*: I join [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/xxxb/list.htm) <img src='./images/qinghua.png' style='width: 6em;'> as a remote intern.
 - *2021.10*: 🎉🎉 I win the Nation Scholarship (Top 1%) in the second year of undergraduate!
 
-# 📝 Publications
+# 📝 Publications(一作/共一/高影响力)
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
