@@ -35,7 +35,7 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 <!-- 🚧 ⛏️ 🛠️ 👷   -->
 
 
-# 🔥 News
+# 🔥 News: 2024.08.30 We propose SOTA Speech/Music/Audio Tokenizer [WavTokenizer](https://github.com/jishengpeng/WavTokenizer) [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer) on arxiv 🎉🎉.
 - *2024.08*: I was selected as a reviewer for ICLR 2025.
 - *2024.07*: Alibaba Tongyi (co-worker) **open source** a large speech system [![](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social&label=Code+Stars)](https://github.com/FunAudioLLM/CosyVoice) and release technical report [FunAudioLLM](https://arxiv.org/abs/2407.04051) which will largely influence the speech area!
 - *2024.07*: One paper(co-worker) is accepted by 2024 ACMMM.
