@@ -45,9 +45,9 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 - *2024.05*: I was selected as a reviewer for NIPS 2024.
 - *2024.05*: MobileSpeech is accepted by 2024 ACL Main(Top conference in nlp)!
 - *2024.04*: I join <img src='./images/ali.png' style="width: 5em;"> [Alibaba,  DAMO Academy, Tongyi Lab](https://tongyi.aliyun.com/) <img src='./images/tongyi.png' style="width: 4em;"> as a research intern. 
-- *2024.03*：I was selected as a reviewer for ECCV 2024.
+- *2024.03*: I was selected as a reviewer for ECCV 2024.
 - *2024.02*: We propose SOTA codec model [Language-Codec](https://arxiv.org/abs/2402.12208) [![](https://img.shields.io/github/stars/jishengpeng/languagecodec?style=social&label=Code+Stars)](https://github.com/jishengpeng/languagecodec) on arxiv.
-- *2024.01*：I was selected as a reviewer for ACM MM 2024.
+- *2024.01*: I was selected as a reviewer for ACM MM 2024.
 - *2024.01*: MobileSpeech has been successfully deployed into [Magic6](https://www.hihonor.com/cn/phones/honor-magic6-pro/) series in Honor Mobile phone!
 - *2024.01*: MagaTTS 2 (co-worker) is accepted by 2024 ICLR (Top conference in machine learning)!
 - *2023.12*: TextrolSpeech [![](https://img.shields.io/github/stars/jishengpeng/TextrolSpeech?style=social&label=Code+Stars)](https://github.com/jishengpeng/TextrolSpeech) is accepted by 2024 ICASSP (Top conference in speech)!
