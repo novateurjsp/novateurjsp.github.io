@@ -36,6 +36,7 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 
 
 # 🔥 News: 2024.08.30 We propose SOTA Speech/Music/Audio Tokenizer [WavTokenizer](https://github.com/jishengpeng/WavTokenizer) [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer) on arxiv 🎉🎉, Huggingface Daily Paper Rank3, Paper With Code Rank3.
+- *2024.10*: 🎉🎉 I win the Nation Scholarship (master)! but the rank is 2/327 :)
 - *2024.10*: I was selected as a reviewer for AISTATS 2025 (Statistics and Machine Learning).
 - *2024.09*: One paper(co-worker) is accepted by 2024 EMNLP Main.
 - *2024.08*: I was selected as a reviewer for ICLR 2025 and ICASSP 2025.
@@ -208,10 +209,11 @@ Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Ji
 - ``CCF B (Chinese) Computer Science (Application)`` [A Novel College Entrance Filling Recommendation Algorithm Based on Score Line Prediction and Multi-feature Fusion](), Zeqing Wang, **Shengpeng Ji**, Xin Li, Zixuan Zhao, Pengxu Wang, Xiaosong Han -->
 
 # 🎖 Honors and Awards
+- *2024.10* National Scholarship (master) (Top 1%, 2/327)
 - *2023.06* Outstanding graduate of Jilin University (Top 5%)
-- *2023.06* One-class scholarship of Jilin University (Top 0.25%, 1/392)
+- *2023.06* One-class scholarship of Jilin University (Top 1%, 1/392)
 - *2022.10* Second-class scholarship of Jilin University
-- *2021.10* National Scholarship (Undergraduate) (Top 1.27%, 5/392)
+- *2021.10* National Scholarship (Undergraduate) (Top 1%, 5/392)
 - *2020.10* Third-class scholarship of Jilin University 
 
 # 📖 Educations
