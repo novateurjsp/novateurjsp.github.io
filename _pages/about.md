@@ -37,7 +37,7 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 
 # 🔥 News: 2024.08.30 We propose SOTA Speech/Music/Audio Tokenizer [WavTokenizer](https://github.com/jishengpeng/WavTokenizer) [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer) on arxiv 🎉🎉, Huggingface Daily Paper Rank3, Paper With Code Rank3.
 - *2024.10*: 🎉🎉 I win the Nation Scholarship in the first year of master! 
-- *2024.10*: I was selected as a reviewer for AISTATS 2025 (Statistics and Machine Learning).
+- *2024.10*: I was selected as a reviewer for CVPR 2025 and AISTATS 2025 (Statistics and Machine Learning).
 - *2024.09*: One paper(co-worker) is accepted by 2024 EMNLP Main.
 - *2024.08*: I was selected as a reviewer for ICLR 2025 and ICASSP 2025.
 - *2024.07*: Alibaba Tongyi (co-worker) **open source** a large speech system [![](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social&label=Code+Stars)](https://github.com/FunAudioLLM/CosyVoice) and release technical report [FunAudioLLM](https://arxiv.org/abs/2407.04051) which will largely influence the speech area!
