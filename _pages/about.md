@@ -241,5 +241,5 @@ Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Ji
 <br />
 <br />
 <div style="text-align: center; line-height: 100px">
-<a href="https://clustrmaps.com/site/1c2mn" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=9ho8v9ULH9xn-2TksQGHsXGbF0_TWVbqlTuc_kmS7Ls&cl=ffffff"></a>
+<a href='https://clustrmaps.com/site/1c2mn'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=590&t=tt&d=9ho8v9ULH9xn-2TksQGHsXGbF0_TWVbqlTuc_kmS7Ls&co=ffffff&ct=808080'/></a>
 </div>
