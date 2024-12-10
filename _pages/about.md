@@ -37,7 +37,7 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 
 # 🔥 News: 2024.08.30 We propose SOTA Speech/Music/Audio Tokenizer [WavTokenizer](https://github.com/jishengpeng/WavTokenizer) [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer) on arxiv 🎉🎉, Huggingface Daily Paper Rank3, Paper With Code Rank3.
 
-- *2024.12*: DisCreteWM is accepted by AAAI 2025.
+- *2024.12*: DiscreteWM is accepted by AAAI 2025.
 - *2024.11*: We release WavChat (A survey of spoken dialogue models about 60 pages) on arxiv.
 - *2024.10*: 🎉🎉 I win the Nation Scholarship in the first year of master and was selected as a **Top** Reviewer for NeuriPS 2024.  
 - *2024.10*: I was selected as a reviewer for CVPR 2025 and AISTATS 2025 (Statistics and Machine Learning).
