@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year master's student in Zhejiang University. I also worked at [MSRA-Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> as a research intern in Beijing ago, doing some LLM and speech research. 
+I am a second-year master's student in Zhejiang University. I also worked at [MSRA-Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> as a research intern in Beijing ago, doing some LLM and speech research. 
 
 <!-- I am now working on Text to speech, large speech language models, Generative model research. If you are seeking any form of **academic cooperation**, please feel free to email me at shengpengji@zju.edu.cn. -->
 
-I graduate from the Department of Software Engineering in JiLin University (吉林大学软件学院) with a bachelor's degree and continue to study in Zhejiang University (浙江大学软件学院) with a master's degree now, advised by [Zhou Zhao (赵洲)](https://person.zju.edu.cn/zhaozhou). I also collaborate with [Zhou Long (周龙)](https://long-zhou.github.io/), [ShuJie Liu (刘树杰)](https://www.microsoft.com/en-us/research/people/shujliu/) from [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) closely. 
+I graduate from the Department of Software Engineering in JiLin University (吉林大学软件学院) with a bachelor's degree and continue to study in Zhejiang University (浙江大学软件学院) with a master's degree now, advised by [Zhou Zhao (赵洲)](https://person.zju.edu.cn/zhaozhou). I collaborate with [Zhou Long (周龙)](https://long-zhou.github.io/), [ShuJie Liu (刘树杰)](https://www.microsoft.com/en-us/research/people/shujliu/) from [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) closely. I also collaborate with [Qian chen(陈谦)](https://scholar.google.com.hk/citations?user=8eosmSQAAAAJ&hl=zh-CN), [Wen Wang(王雯)](https://scholar.google.com.hk/citations?user=85Tj1OwAAAAJ&hl=zh-CN) from Alibaba Damo Academy Speech Lab. I have learned a lot from them. 
 
 My research interest includes speech synthesis, Generative model and LLM. I have published some papers at the top international AI conferences such as ACL2024, ICLR2024, ICASSP2024 with total google scholar citations <a href='https://scholar.google.com/citations?user=zuRaB-oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
@@ -37,7 +37,7 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 
 # 🔥 News: 2024.08.30 We propose SOTA Speech/Music/Audio Tokenizer [WavTokenizer](https://github.com/jishengpeng/WavTokenizer) [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer) on arxiv 🎉🎉, Huggingface Daily Paper Rank3, Paper With Code Rank3.
 
-
+- *2024.12*: DisCreteWM is accepted by 2025 AAAI.
 - *2024.11*: We release WavChat (A survey of spoken dialogue models about 60 pages) on arxiv.
 - *2024.10*: 🎉🎉 I win the Nation Scholarship in the first year of master and was selected as a **Top** Reviewer for NeuriPS 2024.  
 - *2024.10*: I was selected as a reviewer for CVPR 2025 and AISTATS 2025 (Statistics and Machine Learning).
@@ -65,7 +65,7 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 - *2021.10*: 🎉🎉 I win the Nation Scholarship (Top 1%) in the second year of undergraduate!
 
 
-# 📝 Publications(一作/共一/高影响力)
+# 📝 Publications(一作/高影响力)
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -104,6 +104,16 @@ Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Ji
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images\watermark.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+DiscreteWM: Speech Watermarking with Discrete Representations \\
+Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang*, Jialon Zuo, Minghui Fang, Yifu Chen, Tao Jin, Zhou Zhao
+
+- Audio samples are available in this [website](https://mobilespeech.github.io/)
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">under anonymous reviewing</div><img src='images\controlspeech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -131,7 +141,7 @@ Authors: **Shengpeng Ji**, Minghui Fang, Ziyue Jiang, Rongjie Huang, Jialong Zuo
 </div>
 
 
-
+<!--
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">under anonymous reviewing</div><img src='images\VSTTS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -143,7 +153,7 @@ Authors: Jialung Zuo<sup>*</sup>, Xize Cheng<sup>*</sup>, **Shengpeng Ji<sup>*</
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">under anonymous reviewing</div><img src='images\languagecodec.png' alt="sym" width="100%"></div></div>
+ <div class='paper-box'><div class='paper-box-image'><div><div class="badge">under anonymous reviewing</div><img src='images\languagecodec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models \\
@@ -153,16 +163,6 @@ Authors: **Shengpeng Ji**, Minghui Fang, Ziyue Jiang, Rongjie Huang, Jialong Zuo
 - Audio samples are available in this [website](https://languagecodec.github.io/)
 </div>
 </div> -->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under anonymous reviewing</div><img src='images\watermark.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-DiscreteWM: Speech Watermarking with Discrete Representations \\
-Authors: Ziyue Jiang*, **Shengpeng Ji<sup>*</sup>**, Yi Ren, Zhenhui Ye, Rongjie Huang, Jinglin Liu, Chen Zhang, Tianyu Pang, Chao Du, Hongcheng Zhu, Zhou Zhao
-
-- Audio samples are available in this [website](https://mobilespeech.github.io/)
-</div>
-</div>
 
 
  ``Alibaba Technical report`` [FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs](https://arxiv.org/abs/2407.04051), Keyu An, Qian Chen, Chong Deng, Zhihao Du, Changfeng Gao, Zhifu Gao, Yue Gu, Ting He, Hangrui Hu, Kai Hu, **Shengpeng Ji**, Yabin Li, Zerui Li, Heng Lu, Xiang Lv, Bin Ma, Ziyang Ma, Chongjia Ni, Changhe Song, Jiaqi Shi, Xian Shi, Hao Wang, Wen Wang, Yuxuan Wang, Zhangyu Xiao, Zhijie Yan, Yexin Yang, Bin Zhang, Qinglin Zhang, Shiliang Zhang, Nan Zhao, Siqi Zheng
