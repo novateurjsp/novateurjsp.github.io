@@ -55,15 +55,7 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 - *2023.11*: Megatts has been successfully deployed into [products](https://www.volcengine.com/product/voicecloning) at ByteDance<img src='./images/tiktok.png' style='width: 6em;'>!
 - *2023.03*: 🎉🎉 I join [Microsoft Research Asia(MSRA), Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> as a research intern!
 - *2021.11*: I join [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/xxxb/list.htm) <img src='./images/qinghua.png' style='width: 6em;'> as a remote intern.
-<!--
-- *2024.08*: I was selected as a reviewer for ICLR 2025 and ICASSP 2025.
-- *2024.05*: I was selected as a reviewer for NIPS 2024.
-- *2024.03*: I was selected as a reviewer for ECCV 2024.
-- *2024.01*: I was selected as a reviewer for ACM MM 2024.
-- *2023.08*：I was selected as a reviewer for EMNLP 2023.
-- *2022.11*: I join Ping An Technology Company <img src='./images/pingan.png' style='width: 5em;'> as a speech junior algorithm engineer in Shanghai!
-- *2022.10*: I got the offer of postgraduate study in the School of Software of [Zhejiang University](http://www.cst.zju.edu.cn/). 
-- *2021.10*: 🎉🎉 I win the Nation Scholarship (Top 1%) in the second year of undergraduate! -->
+
 
 
 # 📝 Publications(一作/高影响力)
@@ -79,6 +71,18 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+
+<!--
+- *2024.08*: I was selected as a reviewer for ICLR 2025 and ICASSP 2025.
+- *2024.05*: I was selected as a reviewer for NIPS 2024.
+- *2024.03*: I was selected as a reviewer for ECCV 2024.
+- *2024.01*: I was selected as a reviewer for ACM MM 2024.
+- *2023.08*：I was selected as a reviewer for EMNLP 2023.
+- *2022.11*: I join Ping An Technology Company <img src='./images/pingan.png' style='width: 5em;'> as a speech junior algorithm engineer in Shanghai!
+- *2022.10*: I got the offer of postgraduate study in the School of Software of [Zhejiang University](http://www.cst.zju.edu.cn/). 
+- *2021.10*: 🎉🎉 I win the Nation Scholarship (Top 1%) in the second year of undergraduate! 
+
+-->
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 ## 🎙 Controllable and Zero-shot Text-to-Speech, Codec Representation
