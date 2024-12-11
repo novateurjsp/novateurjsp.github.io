@@ -72,17 +72,16 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 </div>
 </div>
 
-<!--
-- *2024.08*: I was selected as a reviewer for ICLR 2025 and ICASSP 2025.
-- *2024.05*: I was selected as a reviewer for NIPS 2024.
-- *2024.03*: I was selected as a reviewer for ECCV 2024.
-- *2024.01*: I was selected as a reviewer for ACM MM 2024.
-- *2023.08*：I was selected as a reviewer for EMNLP 2023.
-- *2022.11*: I join Ping An Technology Company <img src='./images/pingan.png' style='width: 5em;'> as a speech junior algorithm engineer in Shanghai!
-- *2022.10*: I got the offer of postgraduate study in the School of Software of [Zhejiang University](http://www.cst.zju.edu.cn/). 
-- *2021.10*: 🎉🎉 I win the Nation Scholarship (Top 1%) in the second year of undergraduate! 
 
--->
+*2024.08*: I was selected as a reviewer for ICLR 2025 and ICASSP 2025.
+*2024.05*: I was selected as a reviewer for NIPS 2024.
+*2024.03*: I was selected as a reviewer for ECCV 2024.
+*2024.01*: I was selected as a reviewer for ACM MM 2024.
+*2023.08*：I was selected as a reviewer for EMNLP 2023.
+*2022.11*: I join Ping An Technology Company <img src='./images/pingan.png' style='width: 5em;'> as a speech junior algorithm engineer in Shanghai!
+*2022.10*: I got the offer of postgraduate study in the School of Software of [Zhejiang University](http://www.cst.zju.edu.cn/). 
+*2021.10*: 🎉🎉 I win the Nation Scholarship (Top 1%) in the second year of undergraduate! 
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 ## 🎙 Controllable and Zero-shot Text-to-Speech, Codec Representation
