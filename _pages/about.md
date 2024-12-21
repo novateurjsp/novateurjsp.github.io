@@ -102,7 +102,7 @@ Authors: **Shengpeng Ji**, Jialong Zuo, Minghui Fang, Ziyue Jiang, Feiyang Chen,
 <div class='paper-box-text' markdown="1">
 
 MobileSpeech: A Fast and High-Fidelity Framework for Mobile Zero-Shot Text-to-Speech \\
-Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Jialong Zuo, Zhou Zhao
+Authors: **Shengpeng Ji**, Ziyue Jiang, Hanting Wang, Jialong Zuo, Zhou Zhao
 
 - Audio samples are available in this [website](https://mobilespeech.github.io/)
 </div>
@@ -112,7 +112,7 @@ Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Ji
 <div class='paper-box-text' markdown="1">
 
 DiscreteWM: Speech Watermarking with Discrete Representations \\
-Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Jialon Zuo, Minghui Fang, Yifu Chen, Tao Jin, Zhou Zhao
+Authors: **Shengpeng Ji**, Ziyue Jiang, Jialon Zuo, Minghui Fang, Yifu Chen, Tao Jin, Zhou Zhao
 
 - Audio samples are available in this [website](https://mobilespeech.github.io/)
 </div>
