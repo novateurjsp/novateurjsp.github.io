@@ -168,7 +168,7 @@ Authors: **Shengpeng Ji**, Minghui Fang, Ziyue Jiang, Rongjie Huang, Jialong Zuo
 </div>
 </div> -->
 
-``ICASSP 2025`` [Enhancing Expressive Voice Conversion with Discrete Pitch-Conditioned Flow Matching Model](), **Jialong Zuo<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, Minghui Fang, Ziyue Jiang, Xize Cheng, Qian Yang,Wenrui Liu, Guangyan Zhang, Zehai Tu, Yiwen Guo, Zhou Zhao
+``ICASSP 2025`` [PFlow-VC: Enhancing Expressive Voice Conversion with Discrete Pitch-Conditioned Flow Matching Model](), **Jialong Zuo<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, Minghui Fang, Ziyue Jiang, Xize Cheng, Qian Yang,Wenrui Liu, Guangyan Zhang, Zehai Tu, Yiwen Guo, Zhou Zhao
 
  ``Alibaba Technical report`` [FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs](https://arxiv.org/abs/2407.04051), Keyu An, Qian Chen, Chong Deng, Zhihao Du, Changfeng Gao, Zhifu Gao, Yue Gu, Ting He, Hangrui Hu, Kai Hu, **Shengpeng Ji**, Yabin Li, Zerui Li, Heng Lu, Xiang Lv, Bin Ma, Ziyang Ma, Chongjia Ni, Changhe Song, Jiaqi Shi, Xian Shi, Hao Wang, Wen Wang, Yuxuan Wang, Zhangyu Xiao, Zhijie Yan, Yexin Yang, Bin Zhang, Qinglin Zhang, Shiliang Zhang, Nan Zhao, Siqi Zheng
 
