@@ -37,6 +37,8 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 
 # 🔥 News: 2024.08.30 We propose SOTA Speech/Music/Audio Tokenizer [WavTokenizer](https://github.com/jishengpeng/WavTokenizer) [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer) on arxiv 🎉🎉, Huggingface Daily Paper Rank3, Paper With Code Rank3.
 
+- *2025.01*: WavTokenizer is accepted by ICLR 2025! and three other papers (co-worker) are also accepted by ICLR 2025.
+- *2024.11*: We release [WavChat](https://github.com/jishengpeng/WavChat) [![](https://img.shields.io/github/stars/jishengpeng/WavChat?
 - *2024.12*: DiscreteWM is accepted by AAAI 2025,  PFlow-VC is accepted by ICASSP 2025 and I was selected as a reviewer for IJCAI 2025, ICML 2025.
 - *2024.11*: We release [WavChat](https://github.com/jishengpeng/WavChat) [![](https://img.shields.io/github/stars/jishengpeng/WavChat?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavChat) (A survey of spoken dialogue models about 60 pages) on arxiv.
 - *2024.10*: 🎉🎉 I win the Nation Scholarship in the first year of master and was selected as a **Top** Reviewer for NeuriPS 2024.  
@@ -85,6 +87,19 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 ## 🎙 Controllable and Zero-shot Text-to-Speech, Codec Representation
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images\wavtokenizer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling \\
+Authors: **Shengpeng Ji**, Ziyue Jiang, Wen Wang, Yifu Chen, Minghui Fang, Jialong Zuo, Qian Yang, Xize Cheng, Zehan Wang, Ruiqi Li, Ziang Zhang, Xiaoda Yang, Rongjie Huang, Yidi Jiang, Qian Chen, Siqi Zheng, Zhou Zhao
+
+- Hugingface Face Daily paper rank3, Our work are promoted by different media and forums, such as Speech Home, and Twitter, which is a Trending Project at both Github and Paperwithcode.
+- Audio samples are available in this [website](https://wavtokenizer.github.io/)
+- Code is available in this [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='images\textrolspeech1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
