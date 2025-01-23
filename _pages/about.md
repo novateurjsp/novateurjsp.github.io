@@ -120,6 +120,7 @@ MobileSpeech: A Fast and High-Fidelity Framework for Mobile Zero-Shot Text-to-Sp
 Authors: **Shengpeng Ji**, Ziyue Jiang, Hanting Wang, Jialong Zuo, Zhou Zhao
 
 - Audio samples are available in this [website](https://mobilespeech.github.io/)
+- This work was deployed in the Honor phone Magic6 series.
 </div>
 </div>
 
