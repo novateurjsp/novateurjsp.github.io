@@ -23,7 +23,7 @@ I am a second-year master's student in Zhejiang University. I also worked at [MS
 
 I graduate from the Department of Software Engineering in JiLin University (吉林大学软件学院) with a bachelor's degree and continue to study in Zhejiang University (浙江大学软件学院) with a master's degree now, advised by [Zhou Zhao (赵洲)](https://person.zju.edu.cn/zhaozhou). I collaborate with [Zhou Long (周龙)](https://long-zhou.github.io/), [ShuJie Liu (刘树杰)](https://www.microsoft.com/en-us/research/people/shujliu/) from [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) closely. I also collaborate with [Qian chen (陈谦)](https://scholar.google.com.hk/citations?user=8eosmSQAAAAJ&hl=zh-CN), [Wen Wang (王雯)](https://scholar.google.com.hk/citations?user=85Tj1OwAAAAJ&hl=zh-CN) from Alibaba Damo Academy Speech Lab. I have learned a lot from them. 
 
-My research interest includes speech synthesis, Generative model and LLM. I have published some papers (第一作者/共一第一) at the top international AI conferences such as ACL2024, AAAI2025, ICASSP2024 with total google scholar citations <a href='https://scholar.google.com/citations?user=zuRaB-oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes speech synthesis, discrete codec, generative model and LLM. I have published some papers (第一作者/共一第一) at the top international AI conferences such as ICLR2025, ACL2024, AAAI2025, ICASSP2024 with total google scholar citations <a href='https://scholar.google.com/citations?user=zuRaB-oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 <!--
 I have long aspired to and dedicated myself to producing impactful work, whether through groundbreaking algorithms, foundational research, or pioneering contributions. While I value the publication of papers in prestigious conferences (such as A* conferences or the top three), my primary focus is on the substantive influence and innovation of my research. I am actively seeking long-term academic collaborations and welcome any inquiries. Please feel free to contact me at shengpengji@zju.edu.cn[本人长期期待并致力于做出有影响力的工作（效果惊艳的落地算法/基础性的研究/开创性的工作），在意但不是只关注于发了多少篇论文（A会/三大会等等），积极寻求一份长期的学术合作(暑研/进修/实习)，欢迎大家随时联系shengpengji@zju.edu.cn]
@@ -35,9 +35,11 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 <!-- 🚧 ⛏️ 🛠️ 👷   -->
 
 
-# 🔥 News: 2024.08.30 We propose SOTA Speech/Music/Audio Tokenizer [WavTokenizer](https://github.com/jishengpeng/WavTokenizer) [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer) on arxiv 🎉🎉, Huggingface Daily Paper Rank3, Paper With Code Rank3.
+# 🔥 News
 
-- *2025.01*: WavTokenizer is accepted by ICLR 2025! and three other papers (co-worker) are also accepted by ICLR 2025.
+<!-- : 2024.08.30 We propose SOTA Speech/Music/Audio Tokenizer [WavTokenizer](https://github.com/jishengpeng/WavTokenizer) [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer) on arxiv 🎉🎉, Huggingface Daily Paper Rank3, Paper With Code Rank3. -->
+
+- *2025.01*: 🎉🎉[WavTokenizer](https://github.com/jishengpeng/WavTokenizer) [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer) is accepted by ICLR 2025! and three other papers (co-worker) are also accepted by ICLR 2025.
 - *2024.12*: DiscreteWM is accepted by AAAI 2025,  PFlow-VC is accepted by ICASSP 2025 and I was selected as a reviewer for IJCAI 2025, ICML 2025.
 - *2024.11*: We release [WavChat](https://github.com/jishengpeng/WavChat) [![](https://img.shields.io/github/stars/jishengpeng/WavChat?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavChat) (A survey of spoken dialogue models about 60 pages) on arxiv.
 - *2024.10*: 🎉🎉 I win the Nation Scholarship in the first year of master and was selected as a **Top** Reviewer for NeuriPS 2024.  
