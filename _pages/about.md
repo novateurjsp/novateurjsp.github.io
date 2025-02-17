@@ -38,8 +38,8 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 # 🔥 News
 
 <!-- : 2024.08.30 We propose SOTA Speech/Music/Audio Tokenizer [WavTokenizer](https://github.com/jishengpeng/WavTokenizer) [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer) on arxiv 🎉🎉, Huggingface Daily Paper Rank3, Paper With Code Rank3. -->
-
-- *2025.01*: 🎉🎉[WavTokenizer](https://github.com/jishengpeng/WavTokenizer) [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer) is accepted by ICLR 2025! three other papers (co-worker) are also accepted by ICLR 2025 and I was selected as a reviewer for ARR (ACL 2025).
+- *2025.02*: I was selected as a reviewer for ICCV 2025 and NeurIPS 2025.
+- *2025.01*: 🎉🎉[WavTokenizer](https://github.com/jishengpeng/WavTokenizer) [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer) is accepted by ICLR 2025! three other papers (co-worker) are also accepted by ICLR 2025. I was selected as a reviewer for ARR (ACL 2025) and an outstanding reviewer for ICASSP 2025.
 - *2024.12*: DiscreteWM is accepted by AAAI 2025,  PFlow-VC is accepted by ICASSP 2025 and I was selected as a reviewer for IJCAI 2025, ICML 2025.
 - *2024.11*: We release [WavChat](https://github.com/jishengpeng/WavChat) [![](https://img.shields.io/github/stars/jishengpeng/WavChat?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavChat) (A survey of spoken dialogue models about 60 pages) on arxiv.
 - *2024.10*: 🎉🎉 I win the Nation Scholarship in the first year of master and was selected as a **Top** Reviewer for NeuriPS 2024.  
@@ -250,7 +250,7 @@ Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Ji
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 # 🧑‍🎨 Professional Services
-Conference Reviewer/Program Committee: EMNLP 2023, ACM-MM 2024, ECCV 2024, NeurIPS 2024 (outstanding reviewer), ICASSP 2025 (outstanding reviewer), AISTATS 2025, ICLR 2025, CVPR 2025, IJCAI 2025, ICML 2025, ACL 2025 (ARR 2), ICCV 2025
+Conference Reviewer/Program Committee: EMNLP 2023, ACM-MM 2024, ECCV 2024, NeurIPS 2024 (outstanding reviewer), ICASSP 2025 (outstanding reviewer), AISTATS 2025, ICLR 2025, CVPR 2025, IJCAI 2025, ICML 2025, ACL 2025 (ARR 2), ICCV 2025, NeurIPS 2025
 
 
 # 💻 Internships
