@@ -250,7 +250,7 @@ Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Ji
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 # 🧑‍🎨 Professional Services
-Conference Reviewer/Program Committee: EMNLP 2023, ACM-MM 2024, ECCV 2024, NeurIPS 2024 (outstanding reviewer), ICASSP 2025, AISTATS 2025, ICLR 2025, CVPR 2025, IJCAI 2025, ICML 2025, ACL 2025 (ARR 2)
+Conference Reviewer/Program Committee: EMNLP 2023, ACM-MM 2024, ECCV 2024, NeurIPS 2024 (outstanding reviewer), ICASSP 2025 (outstanding reviewer), AISTATS 2025, ICLR 2025, CVPR 2025, IJCAI 2025, ICML 2025, ACL 2025 (ARR 2), ICCV 2025
 
 
 # 💻 Internships
