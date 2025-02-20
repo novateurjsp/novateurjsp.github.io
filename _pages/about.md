@@ -136,11 +136,10 @@ Authors: **Shengpeng Ji**, Ziyue Jiang, Jialon Zuo, Minghui Fang, Yifu Chen, Tao
 </div>
 </div>
 
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">under anonymous reviewing</div><img src='images\controlspeech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<!--
 
 ControlSpeech: Towards Simultaneous Zero-shot Speaker Cloning and Zero-shot Language Style Control With Decoupled Codec \\
 Authors: **Shengpeng Ji**, Jialong Zuo, Minghui Fang, Siqi Zheng, Qian Chen, Wen Wang, Ziyue Jiang, Hai Huang, Xize Cheng, Rongjie Huang, Zhou Zhao 
@@ -149,8 +148,6 @@ Authors: **Shengpeng Ji**, Jialong Zuo, Minghui Fang, Siqi Zheng, Qian Chen, Wen
 - Audio samples are available in this [website](https://controlspeech.github.io/)
 </div>
 </div>
-
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">under anonymous reviewing</div><img src='images\languagecodec.png' alt="sym" width="100%"></div></div>
