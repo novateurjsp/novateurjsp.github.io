@@ -45,12 +45,10 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 - *2024.10*: 🎉🎉 I win the Nation Scholarship in the first year of master and was selected as a **Top** Reviewer for NeuriPS 2024.  
 - *2024.10*: I was selected as a reviewer for CVPR 2025 and AISTATS 2025 (Statistics and Machine Learning).
 - *2024.09*: One paper(co-worker) is accepted by 2024 EMNLP Main.
-- *2024.07*: Alibaba Tongyi (co-worker) **open source** a large speech system [![](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social&label=Code+Stars)](https://github.com/FunAudioLLM/CosyVoice) and release technical report [FunAudioLLM](https://arxiv.org/abs/2407.04051) which will largely influence the speech area!
+- *2024.07*: Alibaba Tongyi (co-worker) **open source** a large speech system [![](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social&label=Code+Stars)](https://github.com/FunAudioLLM/CosyVoice) and release technical report [FunAudioLLM(CosyVoice)](https://arxiv.org/abs/2407.04051) which will largely influence the speech area!
 - *2024.07*: One paper(co-worker) is accepted by 2024 ACMMM.
-- *2024.06*: We propose [ControlSpeech](https://github.com/jishengpeng/controlspeech) [![](https://img.shields.io/github/stars/jishengpeng/ControlSpeech?style=social&label=Code+Stars)](https://github.com/jishengpeng/controlspeech) on arxiv.
 - *2024.05*: MobileSpeech is accepted by 2024 ACL Main(Top conference in nlp)!
 - *2024.04*: I join <img src='./images/ali.png' style="width: 5em;"> [Alibaba,  DAMO Academy, Tongyi Lab](https://tongyi.aliyun.com/) <img src='./images/tongyi.png' style="width: 4em;"> as a research intern. 
-- *2024.02*: We propose SOTA codec model [Language-Codec](https://arxiv.org/abs/2402.12208) [![](https://img.shields.io/github/stars/jishengpeng/languagecodec?style=social&label=Code+Stars)](https://github.com/jishengpeng/languagecodec) on arxiv.
 - *2024.01*: MobileSpeech has been successfully deployed into [Magic6](https://www.hihonor.com/cn/phones/honor-magic6-pro/) series in Honor Mobile phone!
 - *2024.01*: MagaTTS 2 (co-worker) is accepted by 2024 ICLR (Top conference in machine learning)!
 - *2023.12*: TextrolSpeech [![](https://img.shields.io/github/stars/jishengpeng/TextrolSpeech?style=social&label=Code+Stars)](https://github.com/jishengpeng/TextrolSpeech) is accepted by 2024 ICASSP (Top conference in speech)!
@@ -59,7 +57,10 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 - *2023.03*: 🎉🎉 I join [Microsoft Research Asia(MSRA), Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> as a research intern!
 - *2021.11*: I join [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/xxxb/list.htm) <img src='./images/qinghua.png' style='width: 6em;'> as a remote intern.
 
-
+<!--
+- *2024.06*: We propose [ControlSpeech](https://github.com/jishengpeng/controlspeech) [![](https://img.shields.io/github/stars/jishengpeng/ControlSpeech?style=social&label=Code+Stars)](https://github.com/jishengpeng/controlspeech) on arxiv.
+- *2024.02*: We propose SOTA codec model [Language-Codec](https://arxiv.org/abs/2402.12208) [![](https://img.shields.io/github/stars/jishengpeng/languagecodec?style=social&label=Code+Stars)](https://github.com/jishengpeng/languagecodec) on arxiv.
+-->
 
 # 📝 Publications(一作/共一/高影响力)
 
@@ -139,6 +140,8 @@ Authors: **Shengpeng Ji**, Ziyue Jiang, Jialon Zuo, Minghui Fang, Yifu Chen, Tao
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">under anonymous reviewing</div><img src='images\controlspeech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+<!--
+
 ControlSpeech: Towards Simultaneous Zero-shot Speaker Cloning and Zero-shot Language Style Control With Decoupled Codec \\
 Authors: **Shengpeng Ji**, Jialong Zuo, Minghui Fang, Siqi Zheng, Qian Chen, Wen Wang, Ziyue Jiang, Hai Huang, Xize Cheng, Rongjie Huang, Zhou Zhao 
 
@@ -161,6 +164,7 @@ Authors: **Shengpeng Ji**, Minghui Fang, Ziyue Jiang, Rongjie Huang, Jialong Zuo
 </div>
 </div>
 
+-->
 
 <!--
 
