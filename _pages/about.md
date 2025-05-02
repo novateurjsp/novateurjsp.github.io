@@ -38,26 +38,27 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 # 🔥 News
 
 <!-- : 2024.08.30 We propose SOTA Speech/Music/Audio Tokenizer [WavTokenizer](https://github.com/jishengpeng/WavTokenizer) [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer) on arxiv 🎉🎉, Huggingface Daily Paper Rank3, Paper With Code Rank3. -->
-- *2025.02*: I was selected as a reviewer for ICCV 2025 and NeurIPS 2025.
-- *2025.01*: 🎉🎉[WavTokenizer](https://github.com/jishengpeng/WavTokenizer) [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer) is accepted by ICLR 2025! three other papers (co-worker) are also accepted by ICLR 2025. I was selected as a reviewer for ARR (ACL 2025) and an outstanding reviewer for ICASSP 2025.
+- *2025.05*: 1 paper is accepted by 2025 ICML.
+- *2025.02*: 1 paper is accepted by 2025 CVPR. I was selected as a reviewer for ICCV 2025, ACMMM 2025, NeurIPS 2025.
+- *2025.01*: 🎉🎉[WavTokenizer](https://github.com/jishengpeng/WavTokenizer) [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer) is accepted by ICLR 2025! 4 papers are accepted by ICLR 2025. I was selected as a reviewer for ARR (ACL 2025) and an outstanding reviewer for ICASSP 2025.
 - *2024.12*: DiscreteWM is accepted by AAAI 2025,  PFlow-VC is accepted by ICASSP 2025 and I was selected as a reviewer for IJCAI 2025, ICML 2025.
 - *2024.11*: We release [WavChat](https://github.com/jishengpeng/WavChat) [![](https://img.shields.io/github/stars/jishengpeng/WavChat?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavChat) (A survey of spoken dialogue models about 60 pages) on arxiv.
 - *2024.10*: 🎉🎉 I win the Nation Scholarship in the first year of master and was selected as a **Top** Reviewer for NeuriPS 2024.  
 - *2024.10*: I was selected as a reviewer for CVPR 2025 and AISTATS 2025 (Statistics and Machine Learning).
-- *2024.09*: One paper(co-worker) is accepted by 2024 EMNLP Main.
+- *2024.09*: 1 paper is accepted by 2024 EMNLP Main.
 - *2024.07*: Alibaba Tongyi (co-worker) **open source** a large speech system [![](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social&label=Code+Stars)](https://github.com/FunAudioLLM/CosyVoice) and release technical report [FunAudioLLM(CosyVoice)](https://arxiv.org/abs/2407.04051) which will largely influence the speech area!
-- *2024.07*: One paper(co-worker) is accepted by 2024 ACMMM.
+- *2024.07*: 1 paper is accepted by 2024 ACMMM.
 - *2024.05*: MobileSpeech is accepted by 2024 ACL Main(Top conference in nlp)!
 - *2024.04*: I join <img src='./images/ali.png' style="width: 5em;"> [Alibaba,  DAMO Academy, Tongyi Lab](https://tongyi.aliyun.com/) <img src='./images/tongyi.png' style="width: 4em;"> as a research intern. 
 - *2024.01*: MobileSpeech has been successfully deployed into [Magic6](https://www.hihonor.com/cn/phones/honor-magic6-pro/) series in Honor Mobile phone!
 - *2024.01*: MagaTTS 2 (co-worker) is accepted by 2024 ICLR (Top conference in machine learning)!
 - *2023.12*: TextrolSpeech [![](https://img.shields.io/github/stars/jishengpeng/TextrolSpeech?style=social&label=Code+Stars)](https://github.com/jishengpeng/TextrolSpeech) is accepted by 2024 ICASSP (Top conference in speech)!
-- *2023.11*: One Paper (co-worker) is accepted by CCFA IEEE Transactions on Computers.
 - *2023.11*: Megatts has been successfully deployed into [products](https://www.volcengine.com/product/voicecloning) at ByteDance<img src='./images/tiktok.png' style='width: 6em;'>!
 - *2023.03*: 🎉🎉 I join [Microsoft Research Asia(MSRA), Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> as a research intern!
 - *2021.11*: I join [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/xxxb/list.htm) <img src='./images/qinghua.png' style='width: 6em;'> as a remote intern.
 
 <!--
+- *2023.11*: One Paper (co-worker) is accepted by CCFA IEEE Transactions on Computers.
 - *2024.06*: We propose [ControlSpeech](https://github.com/jishengpeng/controlspeech) [![](https://img.shields.io/github/stars/jishengpeng/ControlSpeech?style=social&label=Code+Stars)](https://github.com/jishengpeng/controlspeech) on arxiv.
 - *2024.02*: We propose SOTA codec model [Language-Codec](https://arxiv.org/abs/2402.12208) [![](https://img.shields.io/github/stars/jishengpeng/languagecodec?style=social&label=Code+Stars)](https://github.com/jishengpeng/languagecodec) on arxiv.
 -->
