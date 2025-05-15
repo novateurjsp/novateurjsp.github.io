@@ -23,7 +23,7 @@ I am a second-year master's student in Zhejiang University. I also worked at [MS
 
 I graduate from the Department of Software Engineering in JiLin University (吉林大学软件学院) with a bachelor's degree and continue to study in Zhejiang University (浙江大学软件学院) with a master's degree now, advised by [Zhou Zhao (赵洲)](https://person.zju.edu.cn/zhaozhou). I collaborate with [Zhou Long (周龙)](https://long-zhou.github.io/), [ShuJie Liu (刘树杰)](https://www.microsoft.com/en-us/research/people/shujliu/) from [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) closely. I also collaborate with [Qian chen (陈谦)](https://scholar.google.com.hk/citations?user=8eosmSQAAAAJ&hl=zh-CN), Siqi Zheng (郑斯奇), [Wen Wang (王雯)](https://scholar.google.com.hk/citations?user=85Tj1OwAAAAJ&hl=zh-CN) from Alibaba Damo Academy Speech Lab. 
 
-My research interest includes speech synthesis, discrete codec, generative model and LLM. I have published some papers (第一作者/共一第一) at the top international AI conferences such as ICLR2025, ACL2024, AAAI2025, ICASSP2024 with total google scholar citations <a href='https://scholar.google.com/citations?user=zuRaB-oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes speech synthesis, discrete codec, generative model and LLM. I have published some papers (第一作者/共一第一) at the top international AI conferences such as ICLR2025, ACL2025, ACL2024, AAAI2025, ICASSP2024 with total google scholar citations <a href='https://scholar.google.com/citations?user=zuRaB-oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 <!--
 I have long aspired to and dedicated myself to producing impactful work, whether through groundbreaking algorithms, foundational research, or pioneering contributions. While I value the publication of papers in prestigious conferences (such as A* conferences or the top three), my primary focus is on the substantive influence and innovation of my research. I am actively seeking long-term academic collaborations and welcome any inquiries. Please feel free to contact me at shengpengji@zju.edu.cn[本人长期期待并致力于做出有影响力的工作（效果惊艳的落地算法/基础性的研究/开创性的工作），在意但不是只关注于发了多少篇论文（A会/三大会等等），积极寻求一份长期的学术合作(暑研/进修/实习)，欢迎大家随时联系shengpengji@zju.edu.cn]
@@ -38,7 +38,7 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 # 🔥 News
 
 <!-- : 2024.08.30 We propose SOTA Speech/Music/Audio Tokenizer [WavTokenizer](https://github.com/jishengpeng/WavTokenizer) [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer) on arxiv 🎉🎉, Huggingface Daily Paper Rank3, Paper With Code Rank3. -->
-- *2025.05*: 1 paper is accepted by 2025 ICML.
+- *2025.05*: ControlSpeech and Language-Codec are accepted by ACL 2025 Main. 9 papers are accepted by ACL 2025 (8 Main). 1 paper is accepted by ICML 2025.
 - *2025.02*: 1 paper is accepted by 2025 CVPR. I was selected as a reviewer for ICCV 2025, ACMMM 2025, NeurIPS 2025.
 - *2025.01*: 🎉🎉[WavTokenizer](https://github.com/jishengpeng/WavTokenizer) [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer) is accepted by ICLR 2025! 4 papers are accepted by ICLR 2025. I was selected as a reviewer for ARR (ACL 2025) and an outstanding reviewer for ICASSP 2025.
 - *2024.12*: DiscreteWM is accepted by AAAI 2025,  PFlow-VC is accepted by ICASSP 2025 and I was selected as a reviewer for IJCAI 2025, ICML 2025.
@@ -137,8 +137,8 @@ Authors: **Shengpeng Ji**, Ziyue Jiang, Jialon Zuo, Minghui Fang, Yifu Chen, Tao
 </div>
 </div>
 
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under anonymous reviewing</div><img src='images\controlspeech.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Mian</div><img src='images\controlspeech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -151,7 +151,7 @@ Authors: **Shengpeng Ji**, Jialong Zuo, Minghui Fang, Siqi Zheng, Qian Chen, Wen
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under anonymous reviewing</div><img src='images\languagecodec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Main</div><img src='images\languagecodec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models \\
@@ -162,7 +162,7 @@ Authors: **Shengpeng Ji**, Minghui Fang, Ziyue Jiang, Rongjie Huang, Jialong Zuo
 </div>
 </div>
 
--->
+
 
 <!--
 
@@ -186,6 +186,15 @@ Authors: **Shengpeng Ji**, Minghui Fang, Ziyue Jiang, Rongjie Huang, Jialong Zuo
 - Audio samples are available in this [website](https://languagecodec.github.io/)
 </div>
 </div> -->
+
+``ACL 2025 Main`` [WavRAG: Audio-Integrated Retrieval Augmented Generation for Spoken Dialogue Models](), **Yifu Chen<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, Haoxiao Wang, Ziqing Wang, Siyu Chen, Jinzheng He, Jin Xu, Zhou Zhao
+
+``ACL 2025 Main`` [UniCodec: Unified Audio Codec with Single Domain-Adaptive Codebook](), **Yidi Jiang<sup>*</sup>**, **Qian Chen<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, Yu Xi, Wen Wang, Chong Zhang, Xianghu Yue, ShiLiang Zhang, Haizhou Li
+
+``ACL 2025 Main`` [Rhythm Controllable and Efficient Zero-Shot Voice Conversion via Shortcut Flow Matching](), **Jialong Zuo<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, Minghui Fang, Mingze Li, Ziyue Jiang, Xize Cheng, Xiaoda Yang, Chen Feiyang, Xinyu Duan, Zhou Zhao
+
+``ACL 2025 Main`` [ACE: A Generative Cross-Modal Retrieval Framework With Coarse-To-Fine Semantic Modeling](), **Minghui Fang<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, Jialong Zuo, Hai Huang, Yan Xia, Jieming Zhu, Xize Cheng, Xiaoda Yang, Wenrui Liu, Gang Wang, Zhenhua Dong, Zhou Zhao
+
 
 ``ICASSP 2025`` [PFlow-VC: Enhancing Expressive Voice Conversion with Discrete Pitch-Conditioned Flow Matching Model](), **Jialong Zuo<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, Minghui Fang, Ziyue Jiang, Xize Cheng, Qian Yang,Wenrui Liu, Guangyan Zhang, Zehai Tu, Yiwen Guo, Zhou Zhao
 
