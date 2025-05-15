@@ -191,9 +191,9 @@ Authors: **Shengpeng Ji**, Minghui Fang, Ziyue Jiang, Rongjie Huang, Jialong Zuo
 
 ``ACL 2025 Main`` [UniCodec: Unified Audio Codec with Single Domain-Adaptive Codebook](), **Yidi Jiang<sup>*</sup>**, **Qian Chen<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, Yu Xi, Wen Wang, Chong Zhang, Xianghu Yue, ShiLiang Zhang, Haizhou Li
 
-``ACL 2025 Main`` [Rhythm Controllable and Efficient Zero-Shot Voice Conversion via Shortcut Flow Matching](), **Jialong Zuo<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, Minghui Fang, Mingze Li, Ziyue Jiang, Xize Cheng, Xiaoda Yang, Chen Feiyang, Xinyu Duan, Zhou Zhao
+``ACL 2025 Main`` [Rhythm Controllable and Efficient Zero-Shot Voice Conversion via Shortcut Flow Matching](), **Jialong Zuo<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, **Minghui Fang<sup>*</sup>**, Mingze Li, Ziyue Jiang, Xize Cheng, Xiaoda Yang, Chen Feiyang, Xinyu Duan, Zhou Zhao
 
-``ACL 2025 Main`` [ACE: A Generative Cross-Modal Retrieval Framework With Coarse-To-Fine Semantic Modeling](), **Minghui Fang<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, Jialong Zuo, Hai Huang, Yan Xia, Jieming Zhu, Xize Cheng, Xiaoda Yang, Wenrui Liu, Gang Wang, Zhenhua Dong, Zhou Zhao
+``ACL 2025 Main`` [ACE: A Generative Cross-Modal Retrieval Framework With Coarse-To-Fine Semantic Modeling](), **Minghui Fang<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, **Jialong Zuo<sup>*</sup>**, Hai Huang, Yan Xia, Jieming Zhu, Xize Cheng, Xiaoda Yang, Wenrui Liu, Gang Wang, Zhenhua Dong, Zhou Zhao
 
 
 ``ICASSP 2025`` [PFlow-VC: Enhancing Expressive Voice Conversion with Discrete Pitch-Conditioned Flow Matching Model](), **Jialong Zuo<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, Minghui Fang, Ziyue Jiang, Xize Cheng, Qian Yang,Wenrui Liu, Guangyan Zhang, Zehai Tu, Yiwen Guo, Zhou Zhao
