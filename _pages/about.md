@@ -39,7 +39,7 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 
 <!-- : 2024.08.30 We propose SOTA Speech/Music/Audio Tokenizer [WavTokenizer](https://github.com/jishengpeng/WavTokenizer) [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer) on arxiv 🎉🎉, Huggingface Daily Paper Rank3, Paper With Code Rank3. -->
 
-- *2025.05*: 🎉🎉 I join Tencent HunYuan Team as the summer intern under the ‘Project Up’ (青云计划) Talent Programme. 
+- *2025.05*: 🎉🎉 I join Tencent HunYuan Team as the summer intern under the ‘Project Up’ (青云计划) Talent Programme. We propose [WavReward](https://arxiv.org/abs/2505.09558) on arxiv. (WavReward is the first RL-COT Reward model in the speech domain and the fourth paper of my ‘Wav Series’ for end-to-end spoken dialogue models[WavTokenizer, WavChat, WavRAG, WavReward].)
 - *2025.05*: ControlSpeech and Language-Codec are accepted by ACL 2025 Main. 9 papers are accepted by ACL 2025 (8 Main). 1 paper is accepted by ICML 2025.
 - *2025.02*: 1 paper is accepted by CVPR 2025. I was selected as a reviewer for ICCV 2025, ACMMM 2025, NeurIPS 2025.
 - *2025.01*: 🎉🎉[WavTokenizer](https://github.com/jishengpeng/WavTokenizer) [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer) is accepted by ICLR 2025! 4 papers are accepted by ICLR 2025. I was selected as a reviewer for ARR (ACL 2025) and an outstanding reviewer for ICASSP 2025.
