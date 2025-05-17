@@ -45,7 +45,7 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 - *2025.01*: 🎉🎉[WavTokenizer](https://github.com/jishengpeng/WavTokenizer) [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer) is accepted by ICLR 2025! 4 papers are accepted by ICLR 2025. I was selected as a reviewer for ARR (ACL 2025) and an outstanding reviewer for ICASSP 2025.
 - *2024.12*: DiscreteWM is accepted by AAAI 2025 and I was selected as a reviewer for IJCAI 2025, ICML 2025.
 - *2024.11*: We release [WavChat](https://github.com/jishengpeng/WavChat) [![](https://img.shields.io/github/stars/jishengpeng/WavChat?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavChat) (A survey of spoken dialogue models about 60 pages) on arxiv.
-- *2024.10*: 🎉🎉 I win the Nation Scholarship in the first year of master and was selected as a **Top** Reviewer for NeurIPS 2024.  
+- *2024.10*: 🎉🎉 I win the Nation Scholarship in the first year of master and was selected as a **Top** Reviewer for NeurIPS 2024. I join Qwen Team this month.
 - *2024.10*: I was selected as a reviewer for CVPR 2025 and AISTATS 2025 (Statistics and Machine Learning).
 - *2024.09*: 1 paper is accepted by 2024 EMNLP Main.
 - *2024.07*: Alibaba Tongyi (co-worker) **open source** a large speech system [![](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social&label=Code+Stars)](https://github.com/FunAudioLLM/CosyVoice) and release technical report [FunAudioLLM(CosyVoice)](https://arxiv.org/abs/2407.04051) which will largely influence the speech area!
