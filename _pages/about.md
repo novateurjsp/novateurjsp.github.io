@@ -24,7 +24,7 @@ My first-author paper include:
 - **Text to Speech.** (TextrolSpeech, MobileSpeech, ControlSpeech)
 - **Codec.** (Language-Codec, UniCodec, WavTokenizer, VQGAE (comming soon🔥))
 
-I'm now looking for full-time position，welcome to contact me at shengpengji@zju.edu.cn
+# I'm now looking for full-time position，welcome to contact me at shengpengji@zju.edu.cn
 <!-- I am now working on Text to speech, large speech language models, Generative model research. If you are seeking any form of **academic cooperation**, please feel free to email me at shengpengji@zju.edu.cn. I have learned a lot from them.  -->
 
 <!--
