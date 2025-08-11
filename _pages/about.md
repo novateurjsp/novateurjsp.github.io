@@ -273,7 +273,7 @@ Conference Reviewer/Program Committee: EMNLP 2023, ACM-MM 2024, ECCV 2024, NeurI
 
 
 # 💻 Internships
-- *2025.05 - now*, [Tencent, HunYuan Team](https://hunyuan.tencent.com/) , Shanghai Xuhui Area.
+- *2025.05 - now*, [Tencent, HunYuan Team](https://hunyuan.tencent.com/) , 青云计划, Shanghai Xuhui Area.
 - *2024.10 - 2025.05*, [Alibaba, Qwen Team](https://tongyi.aliyun.com/) <img src='./images/ali.png' style="width: 5em;">, Hangzhou YunGu Area.
 - *2024.04 - 2024.10*, [Alibaba, DAMO Academy, Tongyi Lab](https://tongyi.aliyun.com/) <img src='./images/ali.png' style="width: 5em;">, Hangzhou YunGu Area.
 - *2023.03 - 2023.08*, [MSRA,Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;">, Beijing HaiDian Area.
