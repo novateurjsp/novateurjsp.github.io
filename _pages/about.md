@@ -45,27 +45,29 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 
 <!-- : 2024.08.30 We propose SOTA Speech/Music/Audio Tokenizer [WavTokenizer](https://github.com/jishengpeng/WavTokenizer) [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer) on arxiv 🎉🎉, Huggingface Daily Paper Rank3, Paper With Code Rank3. -->
 
-- *2025.05*: 🎉🎉 I join Tencent HunYuan Team as the summer intern under the ‘Project Up’ (青云计划) Talent Programme. We propose [WavReward](https://arxiv.org/abs/2505.09558) on arxiv.
+- *2025.08*: 🎉🎉 I was selected as 华为天才少年.
+- *2025.07*: Language-Codec, WavRAG, T2A-Feedback are selected as ACL Oral. We propose [WavReward](https://arxiv.org/abs/2505.09558) on arxiv. 2 papers are accepted by ICCV and ACM MM.
 - *2025.05*: ControlSpeech and Language-Codec are accepted by ACL 2025 Main. 9 papers are accepted by ACL 2025 (8 Main). 1 paper is accepted by ICML 2025.
 - *2025.02*: 1 paper is accepted by CVPR 2025. I was selected as a reviewer for ICCV 2025, ACMMM 2025, NeurIPS 2025.
 - *2025.01*: 🎉🎉[WavTokenizer](https://github.com/jishengpeng/WavTokenizer) [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer) is accepted by ICLR 2025! 4 papers are accepted by ICLR 2025. I was selected as a reviewer for ARR (ACL 2025) and an outstanding reviewer for ICASSP 2025.
 - *2024.12*: DiscreteWM is accepted by AAAI 2025 and I was selected as a reviewer for IJCAI 2025, ICML 2025.
 - *2024.11*: We release [WavChat](https://github.com/jishengpeng/WavChat) [![](https://img.shields.io/github/stars/jishengpeng/WavChat?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavChat) (A survey of spoken dialogue models about 60 pages) on arxiv.
 - *2024.10*: 🎉🎉 I win the Nation Scholarship in the first year of master and was selected as a **Top** Reviewer for NeurIPS 2024. I join Qwen Team this month.
-- *2024.10*: I was selected as a reviewer for CVPR 2025 and AISTATS 2025 (Statistics and Machine Learning).
 - *2024.09*: 1 paper is accepted by 2024 EMNLP Main.
 - *2024.07*: Alibaba Tongyi (co-worker) **open source** a large speech system [![](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social&label=Code+Stars)](https://github.com/FunAudioLLM/CosyVoice) and release technical report [FunAudioLLM(CosyVoice)](https://arxiv.org/abs/2407.04051) which will largely influence the speech area!
 - *2024.07*: 1 paper is accepted by 2024 ACMMM.
 - *2024.05*: MobileSpeech is accepted by 2024 ACL Main(Top conference in nlp)!
-- *2024.04*: I join <img src='./images/ali.png' style="width: 5em;"> [Alibaba,  DAMO Academy, Tongyi Lab](https://tongyi.aliyun.com/) <img src='./images/tongyi.png' style="width: 4em;"> as a research intern. 
 - *2024.01*: MobileSpeech has been successfully deployed into [Magic6](https://www.hihonor.com/cn/phones/honor-magic6-pro/) series in Honor Mobile phone!
 - *2024.01*: MagaTTS 2 (co-worker) is accepted by 2024 ICLR (Top conference in machine learning)!
-- *2023.12*: TextrolSpeech [![](https://img.shields.io/github/stars/jishengpeng/TextrolSpeech?style=social&label=Code+Stars)](https://github.com/jishengpeng/TextrolSpeech) is accepted by 2024 ICASSP (Top conference in speech)!
 - *2023.11*: Megatts has been successfully deployed into [products](https://www.volcengine.com/product/voicecloning) at ByteDance<img src='./images/tiktok.png' style='width: 6em;'>!
 - *2023.03*: 🎉🎉 I join [Microsoft Research Asia(MSRA), Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> as a research intern!
 - *2021.11*: I join [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/xxxb/list.htm) <img src='./images/qinghua.png' style='width: 6em;'> as a remote intern.
 
 <!--
+- *2025.05*: 🎉🎉 I join Tencent HunYuan Team as the summer intern under the ‘Project Up’ (青云计划) Talent Programme. We propose [WavReward](https://arxiv.org/abs/2505.09558) on arxiv.
+- *2024.10*: I was selected as a reviewer for CVPR 2025 and AISTATS 2025 (Statistics and Machine Learning).
+- *2024.04*: I join <img src='./images/ali.png' style="width: 5em;"> [Alibaba,  DAMO Academy, Tongyi Lab](https://tongyi.aliyun.com/) <img src='./images/tongyi.png' style="width: 4em;"> as a research intern. 
+- *2023.12*: TextrolSpeech [![](https://img.shields.io/github/stars/jishengpeng/TextrolSpeech?style=social&label=Code+Stars)](https://github.com/jishengpeng/TextrolSpeech) is accepted by 2024 ICASSP (Top conference in speech)!
 - *2023.11*: One Paper (co-worker) is accepted by CCFA IEEE Transactions on Computers.
 - *2024.06*: We propose [ControlSpeech](https://github.com/jishengpeng/controlspeech) [![](https://img.shields.io/github/stars/jishengpeng/ControlSpeech?style=social&label=Code+Stars)](https://github.com/jishengpeng/controlspeech) on arxiv.
 - *2024.02*: We propose SOTA codec model [Language-Codec](https://arxiv.org/abs/2402.12208) [![](https://img.shields.io/github/stars/jishengpeng/languagecodec?style=social&label=Code+Stars)](https://github.com/jishengpeng/languagecodec) on arxiv.
@@ -141,7 +143,7 @@ Authors: **Shengpeng Ji**, Ziyue Jiang, Hanting Wang, Jialong Zuo, Zhou Zhao
 DiscreteWM: Speech Watermarking with Discrete Representations \\
 Authors: **Shengpeng Ji**, Ziyue Jiang, Jialon Zuo, Minghui Fang, Yifu Chen, Tao Jin, Zhou Zhao
 
-- Audio samples are available in this [website](https://mobilespeech.github.io/)
+- Audio samples are available in this [website](https://DiscreteWM.github.io/discrete_wm)
 </div>
 </div>
 
@@ -159,7 +161,7 @@ Authors: **Shengpeng Ji**, Jialong Zuo, Minghui Fang, Siqi Zheng, Qian Chen, Wen
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Main</div><img src='images\languagecodec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Oral</div><img src='images\languagecodec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models \\
@@ -195,7 +197,7 @@ Authors: **Shengpeng Ji**, Minghui Fang, Ziyue Jiang, Rongjie Huang, Jialong Zuo
 </div>
 </div> -->
 
-``ACL 2025 Main`` [WavRAG: Audio-Integrated Retrieval Augmented Generation for Spoken Dialogue Models](), **Yifu Chen<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, Haoxiao Wang, Ziqing Wang, Siyu Chen, Jinzheng He, Jin Xu, Zhou Zhao
+``ACL 2025 Oral`` [WavRAG: Audio-Integrated Retrieval Augmented Generation for Spoken Dialogue Models](), **Yifu Chen<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, Haoxiao Wang, Ziqing Wang, Siyu Chen, Jinzheng He, Jin Xu, Zhou Zhao
 
 ``ACL 2025 Main`` [UniCodec: Unified Audio Codec with Single Domain-Adaptive Codebook](), **Yidi Jiang<sup>*</sup>**, **Qian Chen<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, Yu Xi, Wen Wang, Chong Zhang, Xianghu Yue, ShiLiang Zhang, Haizhou Li
 
@@ -267,10 +269,11 @@ Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Ji
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 # 🧑‍🎨 Professional Services
-Conference Reviewer/Program Committee: EMNLP 2023, ACM-MM 2024, ECCV 2024, NeurIPS 2024 (outstanding reviewer), ICASSP 2025 (outstanding reviewer), AISTATS 2025, ICLR 2025, CVPR 2025, IJCAI 2025, ICML 2025, ACL 2025 (ARR 2), ICCV 2025, NeurIPS 2025, ACM-MM 2025, EMNLP 2025.
+Conference Reviewer/Program Committee: EMNLP 2023, ACM-MM 2024, ECCV 2024, NeurIPS 2024 (outstanding reviewer), ICASSP 2025 (outstanding reviewer), AISTATS 2025, ICLR 2025, CVPR 2025, IJCAI 2025, ICML 2025, ACL 2025 (ARR 2), ICCV 2025, NeurIPS 2025, ACM-MM 2025, EMNLP 2025, AAAI 2026.
 
 
 # 💻 Internships
+- *2025.05 - now*, [Tencent, HunYuan Team](https://hunyuan.tencent.com/) , Shanghai Xuhui Area.
 - *2024.10 - 2025.05*, [Alibaba, Qwen Team](https://tongyi.aliyun.com/) <img src='./images/ali.png' style="width: 5em;">, Hangzhou YunGu Area.
 - *2024.04 - 2024.10*, [Alibaba, DAMO Academy, Tongyi Lab](https://tongyi.aliyun.com/) <img src='./images/ali.png' style="width: 5em;">, Hangzhou YunGu Area.
 - *2023.03 - 2023.08*, [MSRA,Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;">, Beijing HaiDian Area.
