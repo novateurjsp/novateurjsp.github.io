@@ -24,8 +24,7 @@ My first-author paper include:
 - **Text to Speech.** (TextrolSpeech, MobileSpeech, ControlSpeech)
 - **Codec.** (Language-Codec, UniCodec, WavTokenizer, VQGAE (comming soon🔥))
 
-# I'm now looking for full-time position，welcome to contact me at shengpengji@zju.edu.cn
-<!-- I am now working on Text to speech, large speech language models, Generative model research. If you are seeking any form of **academic cooperation**, please feel free to email me at shengpengji@zju.edu.cn. I have learned a lot from them.  -->
+<!-- I am now working on Text to speech, large speech language models, Generative model research. If you are seeking any form of **academic cooperation**, please feel free to email me at shengpengji@zju.edu.cn. I have learned a lot from them. # I'm now looking for full-time position，welcome to contact me at shengpengji@zju.edu.cn -->
 
 <!--
 I graduate from the Department of Software Engineering in JiLin University (吉林大学软件学院) with a bachelor's degree and continue to study in Zhejiang University (浙江大学软件学院) with a master's degree now, advised by [Zhou Zhao (赵洲)](https://person.zju.edu.cn/zhaozhou). I collaborate with [Zhou Long (周龙)](https://long-zhou.github.io/), [ShuJie Liu (刘树杰)](https://www.microsoft.com/en-us/research/people/shujliu/) from [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) closely. I also collaborate with [Qian chen (陈谦)](https://scholar.google.com.hk/citations?user=8eosmSQAAAAJ&hl=zh-CN), Siqi Zheng (郑斯奇), [Wen Wang (王雯)](https://scholar.google.com.hk/citations?user=85Tj1OwAAAAJ&hl=zh-CN) from Alibaba Damo Academy Speech Lab. 
