@@ -17,14 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year master's student in Zhejiang University. I also worked at [MSRA-Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;">, Alibaba Speech Lab, Qwen LLM Team ago. I have published some papers (第一作者/共一第一) at the top international AI conferences such as ICLR2025, ACL2025, ACL2024, AAAI2025, ICASSP2024 with total google scholar citations <a href='https://scholar.google.com/citations?user=zuRaB-oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I am a third-year master's student in Zhejiang University now. I also worked at [MSRA-Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;">, Alibaba Speech Lab, Qwen LLM Team ago. I have published some papers (第一作者) at the top international AI conferences such as ICLR2025, ACL2025, ACL2024, AAAI2025, ICASSP2024 with total google scholar citations <a href='https://scholar.google.com/citations?user=zuRaB-oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I was selected as 华为天才少年(一档), 阿里星(集团) and Chu Kochen Presidential Scholarship(浙大十佳研究生) Finalist this year.
 
-My first-author paper include:
+
+
+<!--
+
+My first-author(include co-first) paper include:
 - **Large Audio Languge Models, End-to-End Spoken Dialogue Models.** (WavTokenzier, WavChat, WavRAG, WavReward, WavOmni, WavBench)
 - **Text to Speech.** (TextrolSpeech, MobileSpeech, ControlSpeech)
-- **Codec.** (Language-Codec, UniCodec, WavTokenizer, VQGAE (comming soon🔥))
+- **Codec.** (Language-Codec, UniCodec, WavTokenizer)
 
-<!-- I am now working on Text to speech, large speech language models, Generative model research. If you are seeking any form of **academic cooperation**, please feel free to email me at shengpengji@zju.edu.cn. I have learned a lot from them. # I'm now looking for full-time position，welcome to contact me at shengpengji@zju.edu.cn -->
+ I am now working on Text to speech, large speech language models, Generative model research. If you are seeking any form of **academic cooperation**, please feel free to email me at shengpengji@zju.edu.cn. I have learned a lot from them. # I'm now looking for full-time position，welcome to contact me at shengpengji@zju.edu.cn -->
 
 <!--
 I graduate from the Department of Software Engineering in JiLin University (吉林大学软件学院) with a bachelor's degree and continue to study in Zhejiang University (浙江大学软件学院) with a master's degree now, advised by [Zhou Zhao (赵洲)](https://person.zju.edu.cn/zhaozhou). I collaborate with [Zhou Long (周龙)](https://long-zhou.github.io/), [ShuJie Liu (刘树杰)](https://www.microsoft.com/en-us/research/people/shujliu/) from [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) closely. I also collaborate with [Qian chen (陈谦)](https://scholar.google.com.hk/citations?user=8eosmSQAAAAJ&hl=zh-CN), Siqi Zheng (郑斯奇), [Wen Wang (王雯)](https://scholar.google.com.hk/citations?user=85Tj1OwAAAAJ&hl=zh-CN) from Alibaba Damo Academy Speech Lab. 
@@ -44,7 +48,7 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 
 <!-- : 2024.08.30 We propose SOTA Speech/Music/Audio Tokenizer [WavTokenizer](https://github.com/jishengpeng/WavTokenizer) [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer) on arxiv 🎉🎉, Huggingface Daily Paper Rank3, Paper With Code Rank3. -->
 
-
+- *2025.09*: 3 papers are accepted at ICML, NeurIPS, and EMNLP.
 - *2025.07*: Language-Codec, WavRAG, T2A-Feedback are selected as ACL Oral. We propose [WavReward](https://arxiv.org/abs/2505.09558) on arxiv. 2 papers are accepted by ICCV and ACM MM.
 - *2025.05*: ControlSpeech and Language-Codec are accepted by ACL 2025 Main. 9 papers are accepted by ACL 2025 (8 Main). 1 paper is accepted by ICML 2025.
 - *2025.02*: 1 paper is accepted by CVPR 2025. I was selected as a reviewer for ICCV 2025, ACMMM 2025, NeurIPS 2025.
@@ -201,12 +205,16 @@ Authors: **Shengpeng Ji**, Minghui Fang, Ziyue Jiang, Rongjie Huang, Jialong Zuo
 
 ``ACL 2025 Main`` [UniCodec: Unified Audio Codec with Single Domain-Adaptive Codebook](), **Yidi Jiang<sup>*</sup>**, **Qian Chen<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, Yu Xi, Wen Wang, Chong Zhang, Xianghu Yue, ShiLiang Zhang, Haizhou Li
 
+
+
 ``ACL 2025 Main`` [Rhythm Controllable and Efficient Zero-Shot Voice Conversion via Shortcut Flow Matching](), **Jialong Zuo<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, **Minghui Fang<sup>*</sup>**, Mingze Li, Ziyue Jiang, Xize Cheng, Xiaoda Yang, Chen Feiyang, Xinyu Duan, Zhou Zhao
 
 ``ACL 2025 Main`` [ACE: A Generative Cross-Modal Retrieval Framework With Coarse-To-Fine Semantic Modeling](), **Minghui Fang<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, **Jialong Zuo<sup>*</sup>**, Hai Huang, Yan Xia, Jieming Zhu, Xize Cheng, Xiaoda Yang, Wenrui Liu, Gang Wang, Zhenhua Dong, Zhou Zhao
 
 
 ``ICASSP 2025`` [PFlow-VC: Enhancing Expressive Voice Conversion with Discrete Pitch-Conditioned Flow Matching Model](), **Jialong Zuo<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, Minghui Fang, Ziyue Jiang, Xize Cheng, Qian Yang,Wenrui Liu, Guangyan Zhang, Zehai Tu, Yiwen Guo, Zhou Zhao
+
+``EMNLP 2025 Findings`` [InteractSpeech: A Speech Dialogue Interaction Corpus for Spoken Dialogue Model](), **Yifu Chen<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, Ziqing Wang, Hanting Wang, Zhou Zhao
 
  ``Alibaba Technical report`` [FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs](https://arxiv.org/abs/2407.04051), Keyu An, Qian Chen, Chong Deng, Zhihao Du, Changfeng Gao, Zhifu Gao, Yue Gu, Ting He, Hangrui Hu, Kai Hu, **Shengpeng Ji**, Yabin Li, Zerui Li, Heng Lu, Xiang Lv, Bin Ma, Ziyang Ma, Chongjia Ni, Changhe Song, Jiaqi Shi, Xian Shi, Hao Wang, Wen Wang, Yuxuan Wang, Zhangyu Xiao, Zhijie Yan, Yexin Yang, Bin Zhang, Qinglin Zhang, Shiliang Zhang, Nan Zhao, Siqi Zheng
 
