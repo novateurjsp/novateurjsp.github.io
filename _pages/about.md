@@ -48,7 +48,7 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 
 <!-- : 2024.08.30 We propose SOTA Speech/Music/Audio Tokenizer [WavTokenizer](https://github.com/jishengpeng/WavTokenizer) [![](https://img.shields.io/github/stars/jishengpeng/WavTokenizer?style=social&label=Code+Stars)](https://github.com/jishengpeng/WavTokenizer) on arxiv 🎉🎉, Huggingface Daily Paper Rank3, Paper With Code Rank3. -->
 
-- *2025.09*: 2 papers are accepted at NeurIPS, and EMNLP.
+- *2025.09*: 2 papers are accepted at NeurIPS and EMNLP.
 - *2025.07*: Language-Codec, WavRAG, T2A-Feedback are selected as ACL Oral. We propose [WavReward](https://arxiv.org/abs/2505.09558) on arxiv. 2 papers are accepted by ICCV and ACM MM.
 - *2025.05*: ControlSpeech and Language-Codec are accepted by ACL 2025 Main. 9 papers are accepted by ACL 2025 (8 Main). 1 paper is accepted by ICML 2025.
 - *2025.02*: 1 paper is accepted by CVPR 2025. I was selected as a reviewer for ICCV 2025, ACMMM 2025, NeurIPS 2025.
