@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year master's student in Zhejiang University now. I also worked at [MSRA-Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;">, Alibaba Speech Lab, Qwen LLM Team ago. I have published some papers (第一作者) at the top international AI conferences such as ICLR2025, ACL2025, ACL2024, AAAI2025, ICASSP2024 with total google scholar citations <a href='https://scholar.google.com/citations?user=zuRaB-oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I was selected as 华为天才少年(一档), 阿里星 and **Chu Kochen Presidential Scholarship Finalist** in Zhejiang University this year.
+I am a third-year master's student in Zhejiang University now. I also worked at [MSRA-Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;">, Alibaba Speech Lab, Qwen LLM Team ago. I have published some papers (第一作者) at the top international AI conferences such as ICLR2025, ACL2025, ACL2024, AAAI2025, ICASSP2024 with total google scholar citations <a href='https://scholar.google.com/citations?user=zuRaB-oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I was selected as 华为天才少年(一档), 阿里星 and **Chu Kochen Presidential Scholarship** in Zhejiang University.
 
 
 
@@ -264,6 +264,8 @@ Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Ji
 - ``CCF B (Chinese) Computer Science (Application)`` [A Novel College Entrance Filling Recommendation Algorithm Based on Score Line Prediction and Multi-feature Fusion](), Zeqing Wang, **Shengpeng Ji**, Xin Li, Zixuan Zhao, Pengxu Wang, Xiaosong Han -->
 
 # 🎖 Honors and Awards
+- *2025.10* Chu Kochen Presidential Scholarship 
+- *2025.10* National Scholarship (master) (Top 1%, 1/327)
 - *2024.10* National Scholarship (master) (Top 1%, 2/327)
 - *2023.06* Outstanding graduate of Jilin University (Top 5%)
 - *2023.06* One-class scholarship of Jilin University (Top 1%, 1/392)
