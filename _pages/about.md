@@ -272,8 +272,8 @@ Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Ji
 - *2021.10* National Scholarship (Undergraduate) (Top 1%, 5/392)
 
 # 📖 Educations
-- *2023.09 - 2026.03*, Master, Software Engineering, Zhejiang University.
-- *2019.09 - 2023.06*, Undergraduate, Software Engineering, JiLin Univeristy.
+- *2023.09 - 2026.03*, Software Engineering, Zhejiang University.
+- *2019.09 - 2023.06*, Software Engineering, JiLin Univeristy.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
