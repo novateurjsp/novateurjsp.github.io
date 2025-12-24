@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Senior Research Scientist in Tencent HunYuan LLM Team now. I also worked at [MSRA-Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;">, Alibaba Speech Lab, Qwen LLM Team ago. I have published some papers (第一作者) at the top international AI conferences such as ICLR2025, ACL2025, ACL2024, AAAI2025, ICASSP2024 with total google scholar citations <a href='https://scholar.google.com/citations?user=zuRaB-oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I was selected as 华为天才少年(一档), 阿里星, 字节3-1 and **Chu Kochen Presidential Scholarship** in Zhejiang University this year.
+I am a Senior Research Scientist in Tencent HunYuan LLM Team now. I also worked at [MSRA-Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;">, Alibaba Speech Lab, Qwen LLM Team ago. I have published some papers (第一作者) at the top international AI conferences such as ICLR2025, ACL2025, ACL2024, AAAI2025, ICASSP2024 with total google scholar citations <a href='https://scholar.google.com/citations?user=zuRaB-oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I was selected as 华为天才少年, 阿里星 and **Chu Kochen Presidential Scholarship** in Zhejiang University this year.
 
 
 
