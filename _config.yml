@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shengpeng Ji"
-description              : "Student Research Scientist in HunYuan LLM Team. Focusing on speech, LLM."
+description              : "Senior Research Scientist in HunYuan LLM Team. Focusing on speech, LLM."
 repository               : "novateurjsp/novateurjsp.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Shengpeng Ji"
   avatar           : "images/jsp_playground.jpg"
   bio              : "ZheJiang University"
-  location         : "NanTong"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=zuRaB-oAAAAJ"
