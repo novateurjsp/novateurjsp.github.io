@@ -271,15 +271,16 @@ Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Ji
 - *2023.06* One-class scholarship of Jilin University (Top 1%, 1/392)
 - *2021.10* National Scholarship (Undergraduate) (Top 1%, 5/392)
 
+<!--
 # 📖 Educations
 - *2023.09 - 2026.03*, Software Engineering, Zhejiang University.
 - *2019.09 - 2023.06*, Software Engineering, JiLin Univeristy.
 
-<!-- # 💬 Invited Talks
+ # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 # 🧑‍🎨 Professional Services
-Conference Reviewer/Program Committee: EMNLP 2023, ACM-MM 2024, ECCV 2024, NeurIPS 2024 (outstanding reviewer), ICASSP 2025 (outstanding reviewer), AISTATS 2025, ICLR 2025, CVPR 2025, IJCAI 2025, ICML 2025, ACL 2025 (ARR 2), ICCV 2025, NeurIPS 2025, ACM-MM 2025, EMNLP 2025, AAAI 2026, ICLR2026.
+Conference Reviewer/Program Committee: EMNLP 2023, ACM-MM 2024, ECCV 2024, NeurIPS 2024 (outstanding reviewer), ICASSP 2025 (outstanding reviewer), AISTATS 2025, ICLR 2025, CVPR 2025, IJCAI 2025, ICML 2025, ACL 2025 (ARR 2), ICCV 2025, NeurIPS 2025, ACM-MM 2025, EMNLP 2025, AAAI 2026, ICLR2026, ICML 2026, ACL 2026.
 
 
 # 💻 Internships
