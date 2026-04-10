@@ -101,9 +101,9 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 *2022.10*: I got the offer of postgraduate study in the School of Software of [Zhejiang University](http://www.cst.zju.edu.cn/). 
 *2021.10*: 🎉🎉 I win the Nation Scholarship (Top 1%) in the second year of undergraduate! 
 
+## 🎙 Controllable and Zero-shot Text-to-Speech, Codec Representation
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-## 🎙 Controllable and Zero-shot Text-to-Speech, Codec Representation
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images\wavtokenizer.png' alt="sym" width="100%"></div></div>
@@ -201,6 +201,27 @@ Authors: **Shengpeng Ji**, Minghui Fang, Ziyue Jiang, Rongjie Huang, Jialong Zuo
 </div>
 </div> -->
 
+
+``Arxiv`` [WavReward: Spoken Dialogue Models With Generalist Reward Evaluators](), Shengpeng Ji, Tianle Liang, Yangzhuo Li, Jialong Zuo, Minghui Fang, Jinzheng He, Yifu Chen, Zhengqing Liu, Ziyue Jiang, Xize Cheng, Siqi Zheng, Jin Xu, Junyang Lin, Zhou Zhao
+
+``Arxiv`` [WavBench: Benchmarking Reasoning, Colloquialism, and Paralinguistics for End-to-End Spoken Dialogue Models](), **Yangzhuo Li<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, **Yifu Chen<sup>*</sup>**, **Tianle Liang<sup>*</sup>**, Haorong Ying, Yule Wang, Junbo Li, Jun Fang, Zhou Zhao
+
+
+``Arxiv`` [WavChat: A Survey of Spoken Dialogue Models](), Shengpeng Ji, Yifu Chen, Minghui Fang, Jialong Zuo, Jingyu Lu, Hanting Wang, Ziyue Jiang, Long Zhou, Shujie Liu, Xize Cheng, Xiaoda Yang, Zehan Wang, Qian Yang, Jian Li, Yidi Jiang, Jingzhen He, Yunfei Chu, Jin Xu, Zhou Zhao
+
+
+``ACL 2026 Main`` [Dual-Axis Generative Reward Model Toward Semantic and Turn-taking Robustness in Interactive Spoken Dialogue Models](), **Yifu Chen<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, Zhengqing Liu, Qian Chen, Wen Wang, Ziqing Wang, Yangzhuo Li, Tianle Liang, Zhou Zhao
+
+
+``ACL 2026 Main`` [VoxMind: An End-to-End Agentic Spoken Dialogue System](), **Tianle Liang<sup>*</sup>**, **Yifu Chen<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, Yijun Chen, Zhiyang Jia, Jingyu Lu, Fan Zhuo, Xueyi Pu, Yangzhuo Li, Zhou Zhao 
+
+``ACL 2026 Findings`` [Dual-Reasoner: Bridging Interleaved Atomicity and Streaming Latency via Thinking-while-Talking](), **Yangzhuo Li<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, Yifu Chen, Tianle Liang, Haoyu Yang, junboli, Jun Fang, Lin Li, Qingyang Hong 
+
+
+``ACL 2026 Findings`` [Enhancing Intelligence and Expressiveness in Spoken Dialogue Models via Adaptive Hybrid Post-Training](), **Yifu Chen<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, Qian Chen, Tianle Liang, Yangzhuo Li, Ziqing Wang, Wen Wang, Jingyu Lu, Haoxiao Wang, Xueyi Pu, Fan Zhuo, Zhou Zhao
+
+
+
 ``ACL 2025 Oral`` [WavRAG: Audio-Integrated Retrieval Augmented Generation for Spoken Dialogue Models](), **Yifu Chen<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, Haoxiao Wang, Ziqing Wang, Siyu Chen, Jinzheng He, Jin Xu, Zhou Zhao
 
 ``ACL 2025 Main`` [UniCodec: Unified Audio Codec with Single Domain-Adaptive Codebook](), **Yidi Jiang<sup>*</sup>**, **Qian Chen<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, Yu Xi, Wen Wang, Chong Zhang, Xianghu Yue, ShiLiang Zhang, Haizhou Li
@@ -219,7 +240,7 @@ Authors: **Shengpeng Ji**, Minghui Fang, Ziyue Jiang, Rongjie Huang, Jialong Zuo
  ``Alibaba Technical report`` [FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs](https://arxiv.org/abs/2407.04051), Keyu An, Qian Chen, Chong Deng, Zhihao Du, Changfeng Gao, Zhifu Gao, Yue Gu, Ting He, Hangrui Hu, Kai Hu, **Shengpeng Ji**, Yabin Li, Zerui Li, Heng Lu, Xiang Lv, Bin Ma, Ziyang Ma, Chongjia Ni, Changhe Song, Jiaqi Shi, Xian Shi, Hao Wang, Wen Wang, Yuxuan Wang, Zhangyu Xiao, Zhijie Yan, Yexin Yang, Bin Zhang, Qinglin Zhang, Shiliang Zhang, Nan Zhao, Siqi Zheng
 
 
- ``ICLR 2024 (Zero-shot TTS)`` [MegaTTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](), Ziyue Jiang, Jinglin Liu, Yi Ren, Jinzheng He, Zhenhui Ye, **Shengpeng Ji**, Chen Zhang, Pengfei Wei, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao
+ ``ICLR 2024`` [MegaTTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](), Ziyue Jiang, Jinglin Liu, Yi Ren, Jinzheng He, Zhenhui Ye, **Shengpeng Ji**, Chen Zhang, Pengfei Wei, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao
  
 
 
