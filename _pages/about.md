@@ -207,10 +207,10 @@ Authors: **Shengpeng Ji**, Minghui Fang, Ziyue Jiang, Rongjie Huang, Jialong Zuo
 ``Arxiv`` [WavBench: Benchmarking Reasoning, Colloquialism, and Paralinguistics for End-to-End Spoken Dialogue Models](), **Yangzhuo Li<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, **Yifu Chen<sup>*</sup>**, **Tianle Liang<sup>*</sup>**, Haorong Ying, Yule Wang, Junbo Li, Jun Fang, Zhou Zhao
 
 
-``Arxiv`` [WavChat: A Survey of Spoken Dialogue Models](), Shengpeng Ji, Yifu Chen, Minghui Fang, Jialong Zuo, Jingyu Lu, Hanting Wang, Ziyue Jiang, Long Zhou, Shujie Liu, Xize Cheng, Xiaoda Yang, Zehan Wang, Qian Yang, Jian Li, Yidi Jiang, Jingzhen He, Yunfei Chu, Jin Xu, Zhou Zhao
+``Arxiv, Survey`` [WavChat: A Survey of Spoken Dialogue Models](), Shengpeng Ji, Yifu Chen, Minghui Fang, Jialong Zuo, Jingyu Lu, Hanting Wang, Ziyue Jiang, Long Zhou, Shujie Liu, Xize Cheng, Xiaoda Yang, Zehan Wang, Qian Yang, Jian Li, Yidi Jiang, Jingzhen He, Yunfei Chu, Jin Xu, Zhou Zhao
 
 
-``ACL 2026 Main`` [Dual-Axis Generative Reward Model Toward Semantic and Turn-taking Robustness in Interactive Spoken Dialogue Models](), **Yifu Chen<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, Zhengqing Liu, Qian Chen, Wen Wang, Ziqing Wang, Yangzhuo Li, Tianle Liang, Zhou Zhao
+``ACL 2026 Oral`` [Dual-Axis Generative Reward Model Toward Semantic and Turn-taking Robustness in Interactive Spoken Dialogue Models](), **Yifu Chen<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, Zhengqing Liu, Qian Chen, Wen Wang, Ziqing Wang, Yangzhuo Li, Tianle Liang, Zhou Zhao
 
 
 ``ACL 2026 Main`` [VoxMind: An End-to-End Agentic Spoken Dialogue System](), **Tianle Liang<sup>*</sup>**, **Yifu Chen<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, Yijun Chen, Zhiyang Jia, Jingyu Lu, Fan Zhuo, Xueyi Pu, Yangzhuo Li, Zhou Zhao 
