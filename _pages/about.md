@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Senior Research Scientist in Tencent HunYuan LLM Team now. I also worked at [MSRA-Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;">, Alibaba Speech Lab, Qwen LLM Team ago. I have published some papers (第一作者) at the top international AI conferences such as ICLR2025, ACL2025, ACL2024, AAAI2025, ICASSP2024 with total google scholar citations <a href='https://scholar.google.com/citations?user=zuRaB-oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I was selected as 华为天才少年, 阿里星 and **Chu Kochen Presidential Scholarship** in Zhejiang University this year.
+I am a Senior Research Scientist in Tencent HunYuan LLM Team now. I also worked at [MSRA-Natural Language Computing Group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) <img src='./images/microsoft_logo.svg' style="width: 4em;">, Alibaba Speech Lab, Qwen LLM Team ago. I have published some papers (第一作者) at the top international AI conferences such as ICLR2025, ACL2025, ACL2024, AAAI2025, ICASSP2024 with total google scholar citations <a href='https://scholar.google.com/citations?user=zuRaB-oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I was selected as 华为天才少年, 阿里星 and **Chu Kochen Presidential Scholarship** in Zhejiang University in 2025.
 
 
 
@@ -77,7 +77,7 @@ I have long aspired to and dedicated myself to producing impactful work, whether
 - *2024.02*: We propose SOTA codec model [Language-Codec](https://arxiv.org/abs/2402.12208) [![](https://img.shields.io/github/stars/jishengpeng/languagecodec?style=social&label=Code+Stars)](https://github.com/jishengpeng/languagecodec) on arxiv.
 -->
 
-# 📝 Publications(一作/共一/高影响力)
+# 📝 Publications(First author/Co-first author/Corresponding author/High-impact)
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -201,10 +201,12 @@ Authors: **Shengpeng Ji**, Minghui Fang, Ziyue Jiang, Rongjie Huang, Jialong Zuo
 </div>
 </div> -->
 
+<large>* Co-first author, ✉ Corresponding author</large>
+
 
 ``Arxiv`` [WavReward: Spoken Dialogue Models With Generalist Reward Evaluators](), Shengpeng Ji, Tianle Liang, Yangzhuo Li, Jialong Zuo, Minghui Fang, Jinzheng He, Yifu Chen, Zhengqing Liu, Ziyue Jiang, Xize Cheng, Siqi Zheng, Jin Xu, Junyang Lin, Zhou Zhao
 
-``Arxiv`` [WavBench: Benchmarking Reasoning, Colloquialism, and Paralinguistics for End-to-End Spoken Dialogue Models](), **Yangzhuo Li<sup>*</sup>**, **Shengpeng Ji<sup>*</sup>**, **Yifu Chen<sup>*</sup>**, **Tianle Liang<sup>*</sup>**, Haorong Ying, Yule Wang, Junbo Li, Jun Fang, Zhou Zhao
+``Arxiv`` [WavBench: Benchmarking Reasoning, Colloquialism, and Paralinguistics for End-to-End Spoken Dialogue Models](), **Yangzhuo Li<sup>*</sup>**, **Shengpeng Ji<sup>*✉</sup>**, **Yifu Chen<sup>*</sup>**, **Tianle Liang<sup>*</sup>**, Haorong Ying, Yule Wang, Junbo Li, Jun Fang, Zhou Zhao
 
 
 ``Arxiv, Survey`` [WavChat: A Survey of Spoken Dialogue Models](), Shengpeng Ji, Yifu Chen, Minghui Fang, Jialong Zuo, Jingyu Lu, Hanting Wang, Ziyue Jiang, Long Zhou, Shujie Liu, Xize Cheng, Xiaoda Yang, Zehan Wang, Qian Yang, Jian Li, Yidi Jiang, Jingzhen He, Yunfei Chu, Jin Xu, Zhou Zhao
@@ -285,12 +287,12 @@ Authors: **Shengpeng Ji<sup>*</sup>**, Ziyue Jiang<sup>*</sup>, Hanting Wang, Ji
 - ``CCF B (Chinese) Computer Science (Application)`` [A Novel College Entrance Filling Recommendation Algorithm Based on Score Line Prediction and Multi-feature Fusion](), Zeqing Wang, **Shengpeng Ji**, Xin Li, Zixuan Zhao, Pengxu Wang, Xiaosong Han -->
 
 # 🎖 Honors and Awards
-- *2025.10* Chu Kochen Presidential Scholarship 
-- *2025.10* National Scholarship (master) (Top 1%, 1/327)
-- *2024.10* National Scholarship (master) (Top 1%, 2/327)
+- *2025.10* Chu Kochen Presidential Scholarship (Highest Honor of Zhejiang University)
+- *2025.10* National Scholarship (Top 1%, 1/327)
+- *2024.10* National Scholarship (Top 1%, 2/327)
 - *2023.06* Outstanding graduate of Jilin University (Top 5%)
 - *2023.06* One-class scholarship of Jilin University (Top 1%, 1/392)
-- *2021.10* National Scholarship (Undergraduate) (Top 1%, 5/392)
+- *2021.10* National Scholarship (Top 1%, 5/392)
 
 <!--
 # 📖 Educations
