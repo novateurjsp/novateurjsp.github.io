@@ -158,6 +158,18 @@ td > code {
   }
 }
 
+/* venue badge color classes – applied via JS */
+code.venue-iclr     { background: #4f46e5 !important; color: #fff !important; border-color: #4f46e5 !important; }
+code.venue-acl      { background: #2563eb !important; color: #fff !important; border-color: #2563eb !important; }
+code.venue-aaai     { background: #d97706 !important; color: #fff !important; border-color: #d97706 !important; }
+code.venue-emnlp    { background: #0891b2 !important; color: #fff !important; border-color: #0891b2 !important; }
+code.venue-neurips  { background: #7c3aed !important; color: #fff !important; border-color: #7c3aed !important; }
+code.venue-icml     { background: #0284c7 !important; color: #fff !important; border-color: #0284c7 !important; }
+code.venue-icassp   { background: #0f766e !important; color: #fff !important; border-color: #0f766e !important; }
+code.venue-cvpr     { background: #b91c1c !important; color: #fff !important; border-color: #b91c1c !important; }
+code.venue-iccv     { background: #9f1239 !important; color: #fff !important; border-color: #9f1239 !important; }
+code.venue-arxiv    { background: #6b7280 !important; color: #fff !important; border-color: #6b7280 !important; }
+
 /* horizontal rule */
 
 hr {

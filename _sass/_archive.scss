@@ -10,12 +10,21 @@
   display: flex;
   justify-content: left;
   align-items: flex-start;
-  padding: 1.2em 0;
-  border-bottom: 1px solid $border-color;
+  padding: 1.4em 1.6em;
+  border-bottom: none;
   gap: 20px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.07);
+  margin-bottom: 14px;
+  transition: box-shadow 0.25s ease;
 
   &:last-of-type {
     border-bottom: none;
+  }
+
+  &:hover {
+    box-shadow: 0 8px 24px rgba(37, 99, 235, 0.13);
   }
 }
 
