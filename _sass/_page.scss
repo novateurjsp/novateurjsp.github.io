@@ -63,8 +63,24 @@
   h1 {
     margin-top: 1em;
     padding-bottom: 0.5em;
-    border-bottom: 2px solid $info-color;
+    border-bottom: none;
     color: $darker-gray;
+    position: relative;
+
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 0;
+      height: 2px;
+      background: $info-color;
+      transition: width 0.7s cubic-bezier(0.22, 1, 0.36, 1);
+    }
+
+    &.h1-inview::after {
+      width: 100%;
+    }
   }
 
   /* news date tags: *2025.09* renders as <em> */
@@ -125,10 +141,16 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 1px;
+    transition: background-size 0.3s cubic-bezier(0.22, 1, 0.36, 1), color 0.2s ease;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
+      background-size: 100% 1px;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);

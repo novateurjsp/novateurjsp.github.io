@@ -5,47 +5,112 @@
 
 <script>
 (function () {
-  // Venue-colored code tag coloring
+  /* === 1. Scroll progress bar === */
+  var bar = document.createElement('div');
+  bar.id = 'scroll-progress';
+  document.body.appendChild(bar);
+  window.addEventListener('scroll', function () {
+    var s = document.documentElement.scrollTop;
+    var h = document.documentElement.scrollHeight - window.innerHeight;
+    bar.style.width = (h > 0 ? (s / h * 100) : 0) + '%';
+  }, { passive: true });
+
+  /* === 2. Venue-colored code badges === */
   var venueMap = [
-    ['iclr',        'venue-iclr'],
-    ['acl',         'venue-acl'],
-    ['aaai',        'venue-aaai'],
-    ['emnlp',       'venue-emnlp'],
-    ['neurips',     'venue-neurips'],
-    ['nips',        'venue-neurips'],
-    ['icml',        'venue-icml'],
-    ['icassp',      'venue-icassp'],
-    ['cvpr',        'venue-cvpr'],
-    ['iccv',        'venue-iccv'],
-    ['arxiv',       'venue-arxiv'],
+    ['iclr',    'venue-iclr'],
+    ['acl',     'venue-acl'],
+    ['aaai',    'venue-aaai'],
+    ['emnlp',   'venue-emnlp'],
+    ['neurips', 'venue-neurips'],
+    ['nips',    'venue-neurips'],
+    ['icml',    'venue-icml'],
+    ['icassp',  'venue-icassp'],
+    ['cvpr',    'venue-cvpr'],
+    ['iccv',    'venue-iccv'],
+    ['arxiv',   'venue-arxiv'],
   ];
   document.querySelectorAll('p > code, li > code').forEach(function (el) {
     var t = el.textContent.toLowerCase();
     for (var i = 0; i < venueMap.length; i++) {
-      if (t.indexOf(venueMap[i][0]) !== -1) {
-        el.classList.add(venueMap[i][1]);
-        break;
-      }
+      if (t.indexOf(venueMap[i][0]) !== -1) { el.classList.add(venueMap[i][1]); break; }
     }
   });
 
-  // Staggered scroll fade-in for paper boxes
+  /* === 3. Paper box fade-in (staggered) === */
   if ('IntersectionObserver' in window) {
-    var s = document.createElement('style');
-    s.textContent = '.paper-box{opacity:0;transition:opacity 0.55s ease,box-shadow 0.25s ease}.paper-box.pb-visible{opacity:1}';
-    document.head.appendChild(s);
-    var obs = new IntersectionObserver(function (entries) {
+    var css1 = document.createElement('style');
+    css1.textContent = '.paper-box{opacity:0;transition:opacity 0.55s ease,box-shadow 0.25s ease}.paper-box.pb-visible{opacity:1}';
+    document.head.appendChild(css1);
+    var obsPB = new IntersectionObserver(function (entries) {
       entries.forEach(function (e) {
-        if (e.isIntersecting) {
-          e.target.classList.add('pb-visible');
-          obs.unobserve(e.target);
-        }
+        if (e.isIntersecting) { e.target.classList.add('pb-visible'); obsPB.unobserve(e.target); }
       });
     }, { threshold: 0.08 });
     document.querySelectorAll('.paper-box').forEach(function (el, i) {
       el.style.transitionDelay = (i * 0.07) + 's';
-      obs.observe(el);
+      obsPB.observe(el);
     });
+
+    /* === 4. h1 section underline draw === */
+    var obsH1 = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) {
+        if (e.isIntersecting) { e.target.classList.add('h1-inview'); obsH1.unobserve(e.target); }
+      });
+    }, { threshold: 0.5 });
+    document.querySelectorAll('.page__content h1').forEach(function (el) { obsH1.observe(el); });
+
+    /* === 5. Timeline list items cascade === */
+    var css2 = document.createElement('style');
+    css2.textContent = '.page__content h1+ul>li{opacity:0;transform:translateX(-18px);transition:opacity 0.42s ease,transform 0.42s ease}';
+    document.head.appendChild(css2);
+    var obsUL = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) {
+        if (e.isIntersecting) {
+          e.target.querySelectorAll(':scope>li').forEach(function (li, i) {
+            setTimeout(function () { li.style.opacity = '1'; li.style.transform = 'translateX(0)'; }, i * 55);
+          });
+          obsUL.unobserve(e.target);
+        }
+      });
+    }, { threshold: 0.05 });
+    document.querySelectorAll('.page__content h1+ul').forEach(function (ul) { obsUL.observe(ul); });
+  }
+
+  /* === 6. Paper box 3D tilt === */
+  document.querySelectorAll('.paper-box').forEach(function (el) {
+    el.addEventListener('mousemove', function (ev) {
+      var r = el.getBoundingClientRect();
+      var dx = (ev.clientX - r.left - r.width / 2) / (r.width / 2);
+      var dy = (ev.clientY - r.top - r.height / 2) / (r.height / 2);
+      el.style.transform = 'perspective(900px) rotateY(' + (dx * 3.5) + 'deg) rotateX(' + (-dy * 1.8) + 'deg)';
+      el.style.transition = 'box-shadow 0.15s ease';
+    });
+    el.addEventListener('mouseleave', function () {
+      el.style.transform = '';
+      el.style.transition = 'transform 0.5s cubic-bezier(0.22,1,0.36,1), box-shadow 0.25s ease';
+    });
+  });
+
+  /* === 7. Author bio typing effect === */
+  var bio = document.querySelector('.author__bio');
+  if (bio && bio.children.length === 0) {
+    var txt = bio.textContent.trim();
+    bio.textContent = '';
+    bio.style.borderRight = '2px solid #2563eb';
+    bio.style.paddingRight = '2px';
+    var idx = 0;
+    function typeChar() {
+      if (idx < txt.length) {
+        bio.textContent += txt[idx++];
+        setTimeout(typeChar, 38);
+      } else {
+        setTimeout(function () {
+          bio.style.transition = 'border-right-color 0.4s';
+          bio.style.borderRightColor = 'transparent';
+        }, 900);
+      }
+    }
+    setTimeout(typeChar, 600);
   }
 })();
 </script>
