@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shengpeng Ji"
   avatar           : "images/jsp_playground.jpg"
-  bio              : "ZheJiang University"
+  bio              : "Senior Research Scientist @ Tencent HunYuan"
   location         : 
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "jishengpeng" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :

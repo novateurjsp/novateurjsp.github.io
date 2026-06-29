@@ -63,7 +63,22 @@
   h1 {
     margin-top: 1em;
     padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 2px solid $info-color;
+    color: $darker-gray;
+  }
+
+  /* news date tags: *2025.09* renders as <em> */
+  ul li > em:first-child {
+    display: inline-block;
+    font-style: normal;
+    font-size: 0.78em;
+    font-weight: 600;
+    color: $info-color;
+    background: rgba(37, 99, 235, 0.08);
+    padding: 1px 7px;
+    border-radius: 4px;
+    margin-right: 4px;
+    letter-spacing: 0.02em;
   }
 
   p, li, dl {
